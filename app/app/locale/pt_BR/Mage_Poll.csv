@@ -1,0 +1,42 @@
+Actions,Ações
+"Add Answer","Adicionar resposta"
+"Add New Answer","Adicionar nova resposta"
+"Add New Poll","Adicionar nova enquete"
+"Answer Title","Título da resposta"
+"Answer Title:","Título da resposta:"
+"Answer with the same title in this poll","Responder com o mesmo título nesta enquete"
+"Are you sure you want to delete it?","Tens a certeza de que deseja excluí-lo?"
+"Assigned Answers","Respostas atribuídas"
+Closed,Fechado
+"Community Poll","Enquete da Comunidade"
+"Date Closed","Data fechada"
+"Date Posted","Data postada"
+Delete,Excluir
+"Delete Answer","Excluir a resposta"
+"Delete Poll","Excluir enquete"
+"Disallow Voting in a Poll Multiple Times from Same IP-address","Não permitir votar em uma enquete várias vezes do mesmo endereço IP"
+"Edit Answer '%s'","Editar resposta ' %s'"
+"Edit Poll '%s'","Editar enquete ' %s'"
+"Edit Poll Answer","Editar a resposta da Enquete"
+ID,ID
+"Invalid Answer.","Resposta inválida."
+"New Poll","Nova enquete"
+"Number of Responses","Número de respostas"
+Open,Aberto
+"Poll Answers","Respostas enquete"
+"Poll Information","Enquete informações"
+"Poll Manager","Gerenciador de enquete"
+"Poll Question","Pergunta da Enquete"
+"Poll information","Informações de pesquisa"
+"Poll with the same question","Enquete com a mesma pergunta"
+Polls,Enquetes
+"Save Answer","Salvar a resposta"
+"Save Poll","Salvar pesquisa"
+Status,Status
+"The answer has been saved.","A resposta foi salvo."
+"The poll does not exist.","A enquete não existe."
+"Unable to find an answer to delete.","Incapaz de encontrar uma resposta para excluir."
+"Visible In","Visível em"
+Vote,Votação
+"Votes Count","Contagem de votos"
+"Votes Count:","Contagem de votos:"

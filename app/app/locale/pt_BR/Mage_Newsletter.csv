@@ -1,0 +1,137 @@
+" Copy"," Cópia"
+Action,Ação
+"Add New Template","Adicionar novo modelo"
+"Add to Queue","Adicionar à fila"
+"Allow Guest Subscription","Permitir comentários assinatura"
+"An error occurred while saving your subscription.","Ocorreu um erro ao salvar sua assinatura."
+"Are you sure that you want to delete this template?","Tem certeza que deseja excluir este modelo?"
+"Are you sure that you want to strip all tags?","Tem certeza que deseja remover todas as tags?"
+Back,Voltar
+Cancel,Cancelar
+Cancelled,Cancelado
+"Cannot mark as received subscriber.","Não é possível marcar como assinante recebida."
+"Confirmation Email Sender","Remetente do Email de confirmação"
+"Confirmation Email Template","Modelo de Email de confirmação"
+"Confirmation request has been sent.","Solicitação de confirmação foi enviada."
+"Convert to Plain Text","Converter para texto sem formatação"
+"Create Newsletter Template","Criar modelo de boletim informativo"
+Customer,Cliente
+"Customer First Name","Nome do cliente"
+"Customer Last Name","Sobrenome do cliente"
+"Customer My Account Newsletter Subscriptions","Cliente minhas conta assinaturas de newsletters"
+"Date Added","Data adicionada"
+"Date Updated","Data atualizada"
+Delete,Excluir
+"Delete Selected Problems","Excluir problemas selecionados"
+"Delete Template","Excluir modelo"
+"Do you really want to cancel the queue?","Quer cancelar a fila?"
+"Duplicate template code.","Duplique o modelo de código."
+"Edit Newsletter","Editar boletim informativo"
+"Edit Newsletter Template","Editar modelo de boletim informativo"
+"Edit Queue","Editar a fila"
+"Edit Template","Editar Template"
+Email,Email
+"Enter your email address","Digite seu endereço de e-mail"
+"Error Code","Código de erro"
+"Error Text","Texto de erro"
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Siga este link para descadastrar <!..--Essa marca é para link unsubscribe--> <a href=""{{var subscriber.getUnsubscriptionLink()}}""> {{var subscriber.getUnsubscriptionLink()}}</a>"
+Guest,Comentários
+ID,ID
+"Invalid queue selected.","Inválido fila selecionada."
+"Invalid subscription ID.","ID de assinatura inválido."
+"Invalid subscription confirmation code.","Código de confirmação de inscrição inválido."
+Message,Mensagem
+"Need to Confirm","Precisa confirmar"
+"New Newsletter Template","Novo modelo de boletim informativo"
+"New Template","Novo modelo"
+Newsletter,"Boletim informativo"
+"Newsletter Message Preview","Newsletter mensagem Preview"
+"Newsletter Problem Reports","Relatórios de problema de boletim informativo"
+"Newsletter Queue","Fila de boletim informativo"
+"Newsletter Section","Seção de boletim"
+"Newsletter Sign-up:","Newsletter Inscreva-se:"
+"Newsletter Styles","Estilos de boletim informativo"
+"Newsletter Subscribers","Assinantes do boletim"
+"Newsletter Subscription","Subscrição da newsletter"
+"Newsletter Subscription Form Before","Newsletter Formulário de inscrição antes de"
+"Newsletter Subscriptions","Assinaturas de newsletters"
+"Newsletter Templates","Modelos de boletim informativo"
+"Newsletter subscription confirmation","Confirmação de subscrição de newsletter"
+"Newsletter subscription success","Sucesso de subscrição de newsletter"
+"Newsletter unsubscription success","Sucesso de cancelamento de newsletter"
+"No Templates Found","Nenhum modelo encontrado"
+"No problems found.","Nenhum problema encontrado."
+"No subscribers selected.","Não assinantes selecionados."
+"Not Activated","Não ativado"
+"Not Sent","Não enviado"
+Pause,Pausa
+Paused,"Em pausa"
+"Please enter a valid email address.","Por favor insira um endereço de email válido."
+"Please enter new template name","Por favor, insira o novo nome de modelo"
+"Please refer to exeption.log","Por favor, consulte exeption.log"
+"Please select subscriber(s)","Por favor selecione ou assinantes"
+Preview,Visualizar
+"Preview Template","Modelo de visualização"
+Processed,Processados
+"Queue Date Start","Fila data início"
+"Queue Finish","Acabamento de fila"
+"Queue Information","Informações de fila"
+"Queue Newsletter...","Newsletter da fila..."
+"Queue Start","Início de fila"
+"Queue Subject","Assunto de fila"
+Recipients,Destinatários
+Reset,Redefinir
+Resume,Currículo
+"Return HTML Version","Retornar a versão HTML"
+"Save As","Salvar como"
+"Save Newsletter","Salvar Newsletter"
+"Save Template","Salvar modelo"
+"Save and Resume","Save e currículo"
+"Selected problem subscribers have been unsubscribed.","Assinantes selecionados problema tem sido não-inscritos."
+"Selected problems have been deleted.","Problemas selecionados foram excluídos."
+Sender,Remetente
+"Sender Email","E-mail remetente"
+"Sender Name","Nome do remetente"
+Sending,"Envio de"
+Sent,Enviado
+"Sign Up for Our Newsletter:","Inscreva-se no nosso boletim informativo:"
+"Sign up for our newsletter","Cadastre-se no nosso boletim informativo"
+"Sorry, but administrator denied subscription for guests. Please <a href=""%s"">register</a>.","Desculpe, mas o administrador negada a assinatura para os hóspedes. Por favor <a href=""%s""> Registre-se</a>."
+Start,Início
+Status,Status
+Store,Loja
+"Store View","Vista da loja"
+Subject,Assunto
+Submit,Enviar
+Subscribe,Inscreva-se
+Subscribed,Subscrito
+Subscriber,Assinante
+Subscribers,Assinantes
+"Subscribers From","Assinantes de"
+"Subscription Options","Opções de assinatura"
+"Success Email Sender","Sucesso E-mail remetente"
+"Success Email Template","Modelo de Email com sucesso"
+"Template Content","Modelo de conteúdo"
+"Template Information","Informações do modelo"
+"Template Name","Nome do modelo"
+"Template Styles","Estilos de modelos"
+"Template Subject","Assunto de modelo"
+"Template Type","Tipo de modelo"
+"Thank you for your subscription.","Obrigado por sua assinatura."
+"The subscription has been removed.","A assinatura foi removida."
+"The subscription has been saved.","A assinatura foi salvo."
+"There was a problem with the subscription.","Houve um problema com a assinatura."
+"There was a problem with the subscription: %s","Houve um problema com a inscrição: %s"
+"There was a problem with the un-subscription.","Houve um problema com o un-assinatura."
+"This email address is already assigned to another user.","Este endereço de e-mail já está atribuído a outro usuário."
+Type,Tipo
+Unconfirmed,"Não confirmados"
+Unsubscribe,Unsubscribe
+"Unsubscribe Selected","Unsubscribe selecionado"
+Unsubscribed,"Não inscrito"
+"Unsubscription Email Sender","Remetente de E-mail de cancelamento"
+"Unsubscription Email Template","Modelo de Email de cancelamento"
+"View Newsletter","Ver Newsletter"
+Website,Site
+"You have been unsubscribed.","Você tem sido não-inscritos."
+"Your subscription has been confirmed.","Sua assinatura foi confirmada."

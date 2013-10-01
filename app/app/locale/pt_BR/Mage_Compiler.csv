@@ -1,0 +1,21 @@
+"Collected Files Count","Contagem de arquivos coletados"
+Compilation,Compilação
+"Compilation State","Estado de compilação"
+"Compilation error","Erro de compilação"
+Compiled,Compilado
+"Compiled Scopes Count","Compilado de escopos de contagem"
+"Compiler Status","Status do compilador"
+"Compiler include path is disabled.","Compilador incluir caminho está desabilitado."
+"Compiler include path is enabled.","Compilador incluir caminho está habilitado."
+"Directory ""%s"" must be writeable","Diretório ""%s"" deve ser gravável"
+Disable,Desativar
+Disabled,"Com deficiência"
+Enable,Enable
+Enabled,Habilitado
+"File ""%s"" must be writeable","Arquivo ""%s"" deve ser gravável"
+"Not Compiled","Não compilado"
+"Run Compilation Process","Executar o processo de compilação"
+"Scopes Compilation Settings","Configurações de compilação de escopos"
+System,Sistema
+"The compilation has completed.","A compilação foi concluída."
+Tools,Ferramentas

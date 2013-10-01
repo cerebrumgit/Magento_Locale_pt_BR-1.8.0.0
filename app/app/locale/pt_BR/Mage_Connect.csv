@@ -1,0 +1,58 @@
+"1.5.0.0 & later","1.5.0.0 & mais tarde"
+Action,Ação
+"Add Author","Adicionar autor"
+"Add Contents Path","Adicionar o caminho de conteúdo"
+"Add PHP Extension dependency","Adicionar extensão PHP dependência"
+"Add Package dependency","Adicionar dependência de pacote"
+"Add files","Adicionar arquivos"
+Authors,Autores
+Channel,Canal
+Contents,Conteúdo
+"Create Extension Package","Criar pacote de extensão"
+Dependencies,Dependências
+Description,Descrição
+"Edit Extension","Editar a extensão"
+Email,Email
+Extension,Extensão
+Extensions,Extensões
+"Failed to create the package.","Falha ao criar o pacote."
+"Failed to load the package data.","Falha ao carregar os dados do pacote."
+"Failed to save the package.","Falha ao salvar o pacote."
+Files,Arquivos
+Folder,Pasta
+Ignore,Ignorar
+Include,Incluem
+License,Licença
+"License URI","Licença URI"
+"Load Local Package","Pacote Local de carga"
+"Load local Package","Pacote local de carga"
+"Magento Connect","Magento Connect"
+"Magento Connect Manager","Magento Connect Manager"
+Max,Max
+Maximum,Máximo
+Min,Min
+Minimum,Mínimo
+Name,Nome
+"New Extension","Nova extensão"
+"PHP Version","Versão do PHP"
+Package,Pacote
+"Package Extensions","Extensões de pacote"
+"Package File Name","Nome do arquivo de pacote"
+"Package Info","Informações do pacote"
+Packages,Pacotes
+Path,Caminho
+Pre-1.5.0.0,Pré-1.5.0.0
+"Release Info","Informações sobre o lançamento"
+Remove,Remover
+"Save As...","Salvar como..."
+"Save Data and Create Package","Salvar os dados e criar o pacote"
+"Save package with custom package file name","Salve o pacote com o nome do arquivo de pacote personalizado"
+Summary,Resumo
+"Supported releases","Versões com suporte"
+System,Sistema
+Target,Alvo
+"The package %s data has been loaded.","O pacote %s dados foi carregados."
+"The package data has been saved.","O dados de pacote tiver sido salvo."
+"There was a problem saving package data","Houve um problema ao salvar dados de pacote"
+Type,Tipo
+User,Usuário

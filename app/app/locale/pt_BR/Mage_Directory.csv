@@ -1,0 +1,46 @@
+"-- Please select --","Por favor selecione..."
+"Allowed Currencies","Moedas permitidas"
+"Base Currency","Moeda base"
+"Base currency is used for all online payment transactions. Scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Moeda base é usada para todas as transações de pagamento online. Escopo é definido pelo escopo do preço de catálogo (""Catálogo"" > ""Preço"" > ""Escopo do preço de catálogo"")."
+"Can\'t convert rate from ""%s-%s"".","Can\ ' t converter taxa de ""%s-%s""."
+"Cannot retrieve rate from %s.","Não é possível recuperar a taxa de %s."
+"Connection Timeout in Seconds","Tempo limite de conexão em segundos"
+"Continue &raquo;",Continue»
+Country,País
+"Country API","API do país"
+"Country and Format Type combination should be unique","Combinação de país e tipo de formato deveria ser exclusiva"
+Currency,Moeda
+"Currency Options","Opções de moeda"
+"Currency Setup","Configuração de moeda"
+"Currency Update Warnings","Avisos de atualização de moeda"
+"Default Display Currency","Moeda de exibição padrão"
+Directory,Diretório
+"Display not required State","Exibir estado não obrigatório"
+Enabled,Habilitado
+"Error Email Recipient","Destinatário de erro de E-mail"
+"Error Email Sender","Erro E-mail remetente"
+"Error Email Template","Modelo de Email erro"
+"FATAL ERROR:","ERRO FATAL:"
+Frequency,Freqüência
+"Installed Currencies","Moedas instaladas"
+"Invalid Import Service specified.","Serviço de importação inválido especificado."
+"Invalid country code: %s","Código de país inválido: %s"
+"Invalid rates received","Taxas inválidas recebidas"
+"Invalid target currency.","Moeda de destino inválido."
+"List of countries","Lista de países"
+"List of regions in specified country","Lista das regiões no país especificado"
+"Postal Code is Optional for the following countries","Código postal é opcional para os seguintes países"
+Region,Região
+"Region API","Região API"
+"Scheduled Import Settings","Configurações de importação agendada"
+"Select Your Currency","Selecione sua moeda"
+Service,Serviço
+"Start Time","Hora de início"
+"State is required for","Estado é necessário para"
+State/Province,Estado/província
+"States Options","Opções de Estados"
+"Unable to initialize the import model.","Não é possível inicializar o modelo de importação."
+"Undefined rate from ""%s-%s"".","Taxa de indefinido de ""%s-%s""."
+WARNING:,AVISO:
+Webservicex,Webservicex
+"Your current currency is: %s","Sua moeda corrente é: %s"

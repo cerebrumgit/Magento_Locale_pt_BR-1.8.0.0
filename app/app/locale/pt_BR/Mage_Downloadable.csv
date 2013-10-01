@@ -1,0 +1,91 @@
+Add,Adicionar
+"Add New Row","Adicionar nova linha"
+"Add links and samples to downloadable product","Adicionar links e amostras de produto para download"
+"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with \'_\'.","Alfanuméricos, caracteres de traço e sublinhado são recomendadas para nomes de arquivo. Caracteres impróprios são substituídos com \ '_\'."
+"An error occurred while getting the requested content.","Ocorreu um erro ao obter o conteúdo solicitado."
+"An error occurred while getting the requested content. Please contact the store owner.","Ocorreu um erro ao obter o conteúdo solicitado. Entre em contato com o dono da loja."
+"An error occurred while saving the file(s).","Ocorreu um erro ao salvar o arquivo (s)."
+Availability:,Disponibilidade:
+Back,Voltar
+Canceled,Cancelado
+"Cannot connect to remote host, error: %s.","Não pode se conectar ao host remoto, erro: %s."
+"Catalog Product View (Downloadable)","Exibição de produto do catálogo (para download)"
+"Category API","Categoria API"
+"Customer My Account Downloadable Items","Cliente minhas itens de conta para download"
+Date,Data
+"Default Link Title","Título do Link padrão"
+"Default Maximum Number of Downloads","Número máximo padrão de Downloads"
+"Default Sample Title","Título de amostra padrão"
+Delete,Excluir
+"Disable Guest Checkout if Cart Contains Downloadable Items","Desabilitar a caixa de comentários se carrinho contém itens transferíveis"
+"Downloadable Information","Informações para download"
+"Downloadable Product","Produto para download"
+"Downloadable Product Options","Opções de produtos para download"
+"Downloadable Product Section","Seção de produtos para download"
+Edit,Editar
+"Edit item parameters","Editar os parâmetros do item"
+"Excl. Tax","Fiscais excl."
+File,Arquivo
+From:,De:
+"Gift Message","Mensagem de Dom"
+"Go to <a href=""%s"">My Downloadable Products</a>","Ir para <a href=""%s""> meus produtos para download</a>"
+"Guest checkout will only work with shareable.","Check-out comentários só funcionará com compartilhável."
+"In stock","Em estoque"
+"Incl. Tax","Imposto incl."
+"Invalid download URL host.","Host da URL de download inválido."
+"Invalid download URL scheme.","Esquema de URL de download inválido."
+"Invalid download link type.","Tipo de link do download inválido."
+Invoiced,Facturado
+"Links can be purchased separately","Links podem ser comprados separadamente"
+List,Lista
+"Max. Downloads","Max. Downloads"
+Message:,Mensagem:
+Move,Mover-se
+"My Downloadable Products","Meus produtos para download"
+"Open Links in New Window","Abrir Links em nova janela"
+"Order #","Ordem #"
+"Order Item Status to Enable Downloads","Status do Item pedido para permitir Downloads"
+"Order id cannot be null","Id do pedido não pode ser nulo"
+"Order item id cannot be null","Id do item de ordem não pode ser nulo"
+Ordered,Ordenou
+"Out of stock","Fora de estoque"
+Pending,Pendente
+"Please log in to download your product or purchase <a href=""%s"">%s</a>.","Efetue o login para baixar seu produto ou comprar <a href=""%s""> %s</a>."
+"Please log in to download your product.","Efetue o login para baixar seu produto."
+"Please set resource file and link type.","Por favor, definir o arquivo de recurso e tipo de link."
+"Please specify product link(s).","Por favor, especifique o produto auto-link (s)."
+Price,Preço
+"Product downloadable links","Links para download de produtos"
+Qty,Qty
+Refunded,Reembolsado
+"Remaining Downloads","Restantes Downloads"
+Remove,Remover
+"Remove Item","Remover Item"
+"Remove links and samples from downloadable product","Remover links e amostras do produto para download"
+"Requested link does not exist.","Link solicitado não existe."
+"Retrieve links and samples list from downloadable product","Recuperar a lista de links e amostras do produto para download"
+Sample,Amostra
+"See price before order confirmation.","Consulte preço antes da confirmação da encomenda."
+Shareable,Compartilhável
+Shipped,Enviados
+"Sorry, there was an error getting requested content. Please contact the store owner.","Desculpa, houve um erro ao obter o conteúdo solicitado. Entre em contato com o dono da loja."
+"Sort Order","Ordem de classificação"
+"Start Download","Iniciar Download"
+Status,Status
+"The file does not exist.","O arquivo não existe."
+"The link has expired.","O link expirou."
+"The link is not available.","O link não está disponível."
+"There are files that were selected but not uploaded yet. Please upload or remove them first","Existem arquivos que foram selecionados, mas não carregou ainda. Por favor fazer o upload ou removê-los primeiro"
+Title,Título
+To:,Para:
+U,U
+Unlimited,Ilimitado
+"Use Content-Disposition","Use Content-Disposition"
+"Use Default Value","Use o valor padrão"
+"View Order","Ordem de exibição"
+"What's this?","O que é isto?"
+"You have not purchased any downloadable products yet.","Você ainda não comprou todos os produtos para download."
+attachment,acessório
+download,baixar
+inline,inline
+sample,amostra

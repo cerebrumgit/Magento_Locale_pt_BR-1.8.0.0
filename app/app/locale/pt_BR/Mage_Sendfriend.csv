@@ -1,0 +1,38 @@
+"Add Recipient","Adicionar destinatário"
+"Allow for Guests","Permitir para os hóspedes"
+"An invalid email address for recipient was entered.","Um endereço de e-mail inválido para destinatário foi digitado."
+"At least one recipient must be specified.","Pelo menos um destinatário deve ser especificado."
+Back,Voltar
+"Catalog Product Email to a Friend","Catálogo produto E-mail a um amigo"
+"Email Address","Endereço de e-mail"
+"Email Address:","Endereço de e-mail:"
+"Email Templates","Modelos de e-mail"
+"Email to a Friend","E-mail a um amigo"
+Email:,Email:
+Enabled,Habilitado
+"Invalid Sender Information","Informações do remetente inválido"
+"Invalid sender email.","E-mail do remetente inválido."
+"Limit Sending By","Limite de envio por"
+"Max Products Sent in 1 Hour","Max produtos enviados em 1 hora"
+"Max Recipients","Max destinatários"
+"Maximum %d email addresses allowed.","Máximo %d permitidos de endereços de e-mail."
+Message:,Mensagem:
+Name,Nome
+Name:,Nome:
+"No more than %d emails can be sent at a time.","Não mais do que %d e-mails podem ser enviados de cada vez."
+"Please define a correct Cookie instance.","Por favor defina uma instância de Cookie correta."
+"Please define a correct Product instance.","Por favor defina uma instância correta do produto."
+"Please define the correct Sender information.","Por favor defina as informações corretas do remetente."
+Recipient:,Destinatário:
+"Remove Email","Remover E-mail"
+"Select Email Template","Selecione o modelo de Email"
+"Send Email","Enviar E-mail"
+"Send product to a friend","Enviar o produto para um amigo"
+Sender:,Remetente:
+"Some emails were not sent.","Alguns e-mails não foram enviados."
+"The link to a friend was sent.","Foi enviado o link para um amigo."
+"The message cannot be empty.","A mensagem não pode ser vazia."
+"The messages cannot be sent more than %d times in an hour","As mensagens não podem ser enviadas mais de %d vezes em uma hora"
+"The sender name cannot be empty.","O nome do remetente não pode ser vazio."
+"There were some problems with the data.","Houve alguns problemas com os dados."
+"You have exceeded limit of %d sends in an hour","Você excedeu o limite de %d envia em uma hora"

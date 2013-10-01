@@ -1,0 +1,57 @@
+"* Required Fields","* Os campos obrigatórios"
+"-- Select --",-Selecione-
+"Add New Option","Adicionar nova opção"
+"Add Selection","Adicionar seleção"
+"As Low as","Tão baixo quanto"
+"As low as","Tão baixo quanto"
+"Bundle Items","Itens do pacote"
+"Bundle Product","Pacote de produto"
+"Buy %1$s with %2$s discount each","Comprar %1$ s %2$ s desconto cada"
+"Catalog Product View (Bundle)","Exibição de produto do catálogo (Bundle)"
+Checkbox,"Caixa de seleção"
+"Choose a selection...","Escolha uma seleção..."
+Close,Fechar
+Default,Padrão
+"Default Qty","Qtde padrão"
+"Default Title","Título padrão"
+Drop-down,Suspensa
+Dynamic,Dinâmica
+"Excl. Tax","Fiscais excl."
+Fixed,Fixo
+From,De
+From:,De:
+"Gift Message","Mensagem de Dom"
+"Incl. Tax","Imposto incl."
+"Input Type","Tipo de entrada"
+"Is Required","É necessário"
+Message:,Mensagem:
+"Multiple Select","Selecionar múltiplos"
+N/A,N/A
+"No options of this product are available.","Não há opções deste produto estão disponíveis."
+None,Nenhum
+Percent,"Por cento"
+"Percent Discount","Por cento de desconto"
+"Please Select Products to Add","Por favor, selecione os produtos para adicionar"
+"Please enter a number greater 0 in this field.","Por favor, insira um número 0 maior neste campo."
+"Please enter search conditions to view products.","Por favor insira critérios de pesquisa para ver os produtos."
+"Please select options for product.","Por favor, selecione as opções para o produto."
+"Please specify product option(s).","Por favor, especifique a opção (ões) do produto."
+Position,Posição
+"Price Range","Faixa de preço"
+"Price Type","Tipo de preço"
+"Price as configured","Preço conforme configurado"
+Qty:,Qty:
+"Radio Buttons","Botões de rádio"
+"Required options are not selected.","Opções necessárias não estão selecionadas."
+"Selected required options are not available.","Selecionado opções necessárias não estão disponíveis."
+Separately,Separadamente
+"Ship Bundle Items","Itens do pacote de navio"
+Shipment,Expedição
+"Store View Title","Título da vista loja"
+"There is no defined renderer for ""%s"" option type.","Não há nenhum processador definido para ""%s"" tipo de opção."
+"This product is also part of bundle(s)","Este produto também faz parte dos pacotes"
+To,Para
+To:,Para:
+Together,Juntos
+"Use Default Value","Use o valor padrão"
+"User Defined Qty","Qty definido pelo usuário"
