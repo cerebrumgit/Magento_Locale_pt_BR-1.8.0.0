@@ -1,60 +1,60 @@
-"%d Catalog Price Rules based on ""%s"" attribute have been disabled.","%d Catálogo de regras de preço com base no ""%s"" atributo foram desativados."
+"%d Catalog Price Rules based on ""%s"" attribute have been disabled.","Foram desativadas as Regras de Preço do Catálogo %d baseadas no atributo ""%s""."
 Actions,Ações
 Active,Ativo
 "Add New Rule","Adicionar nova regra"
-"An error occurred while deleting the rule. Please review the log and try again.","Ocorreu um erro ao excluir a regra. Por favor, revise o log e tente novamente."
-"An error occurred while saving the rule data. Please review the log and try again.","Ocorreu um erro ao salvar os dados da regra. Por favor, revise o log e tente novamente."
-Apply,Aplicar
-"Apply Rules","Aplicar regras de"
-"Attribute Set","Conjunto de atributos"
-"By Fixed Amount","De montante fixo"
-"By Percentage of the Original Price","Percentagem do preço Original"
+"An error occurred while deleting the rule. Please review the log and try again.","Ocorreu um erro ao apagar a regra. Reveja o relatório e tente novamente."
+"An error occurred while saving the rule data. Please review the log and try again.","Ocorreu um erro ao salvar os dados da regra. Reveja o relatório e tente novamente."
+Apply,Solicitar
+"Apply Rules","Aplicar Regras"
+"Attribute Set","Conjunto de Atributos"
+"By Fixed Amount","Por Quantia Fixa"
+"By Percentage of the Original Price","Por Percentagem do Preço Original"
 Catalog,Catálogo
-"Catalog Price Rule","Regra de preço de catálogo"
-"Catalog Price Rules","Regras de preço de catálogo"
+"Catalog Price Rule","Regra de Preço de Catálogo"
+"Catalog Price Rules","Regras de Preço do Catálogo"
 Category,Categoria
 Conditions,Condições
-"Conditions (leave blank for all products)","Condições (deixe em branco para todos os produtos)"
+"Conditions (leave blank for all products)","Condições (deixar em branco para todos os produtos)"
 "Conditions Combination","Combinação de condições"
-"Customer Groups","Grupos de clientes"
+"Customer Groups","Grupos do cliente"
 "Date Expire","Data de expiração"
-"Date From","Data a partir da"
+"Date From","Data Inicial"
 "Date Start","Data de início"
-"Date To","Data para"
+"Date To","Data Final"
 Description,Descrição
-"Discount Amount","Desconto de quantidade"
+"Discount Amount","Quantia de Desconto"
 "Edit Rule","Editar regra"
-"Edit Rule '%s'","Editar regra ' %s'"
-"Enable Discount to Subproducts","Permitir desconto de subprodutos"
-"From Date","Partir da data"
+"Edit Rule '%s'","Editar regra ""s%"""
+"Enable Discount to Subproducts","Habilitar Desconto para Subprodutos"
+"From Date","A Partir da Data"
 "General Information","Informações gerais"
-ID,ID
+ID,Identidade
 Inactive,Inativo
-"New Rule","Nova regra"
+"New Rule","Nova Regra"
 No,Não
 Options,Opções
 Priority,Prioridade
-"Product Attribute","Atributo de produto"
+"Product Attribute","Atributo de Produto"
 Promotions,Promoções
-"Rule Information","Informações de regra"
+"Rule Information","Informação da Regra"
 "Rule Name","Nome da regra"
-"Save and Apply","Salvar e aplicar"
+"Save and Apply","Salvar e Aplicar"
 "Save and Continue Edit","Salvar e continuar a editar"
 Status,Status
-"Stop Further Rules Processing","Pare de novas regras de processamento"
-"The rule has been deleted.","A regra foi Excluídoda."
-"The rule has been saved.","A regra foi salvo."
+"Stop Further Rules Processing","Parar Outras Regras de Processamento"
+"The rule has been deleted.","A regra foi apagada."
+"The rule has been saved.","A regra foi salva."
 "The rules have been applied.","As regras foram aplicadas."
-"There are rules that have been changed but were not applied. Please, click Apply Rules in order to see immediate effect in the catalog.","Existem regras que foram alteradas, mas não foram aplicadas. Por favor, clique em aplicar regras a fim de ver o efeito imediato no catálogo."
-"This rule no longer exists.","Esta regra não existe mais."
-"To Date","Até à data"
-"To Fixed Amount","De montante fixo"
-"To Percentage of the Original Price","A percentagem do preço Original"
-"Unable to apply rules.","Não é possível aplicar as regras."
-"Unable to find a rule to delete.","Não é possível encontrar uma regra para excluir."
-"Update Prices Using the Following Information","Preços de atualização usando as seguintes informações"
-"Update product's %s %s: %s","Do produto atualização %s %s: %s"
-Website,Site
-Websites,Websites
-"Wrong rule specified.","Errado regra especificada."
+"There are rules that have been changed but were not applied. Please, click Apply Rules in order to see immediate effect in the catalog.","Existem regras que foram alteradas mas não foram aplicadas. Por favor, clique em Aplicar Regras para ver o efeito imediato no catálogo."
+"This rule no longer exists.","Essa regra não existe mais."
+"To Date","Até a Data Atual"
+"To Fixed Amount","Para um Valor Fixo"
+"To Percentage of the Original Price","Para uma Porcentagem do Preço Original"
+"Unable to apply rules.","Incapaz de aplicar as regras."
+"Unable to find a rule to delete.","Incapaz de encontrar uma regra para excluir."
+"Update Prices Using the Following Information","Atualizar preços usando as seguintes informações"
+"Update product's %s %s: %s","Atualização dos produtos %s %s: %s"
+Website,Website
+Websites,Sites
+"Wrong rule specified.","Especificação de regra incorreta."
 Yes,Sim

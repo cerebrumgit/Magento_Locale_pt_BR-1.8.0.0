@@ -1,58 +1,58 @@
-"1.5.0.0 & later","1.5.0.0 & mais tarde"
+"1.5.0.0 & later","1.5.0.0 e posterior"
 Action,Ação
 "Add Author","Adicionar autor"
-"Add Contents Path","Adicionar o caminho de conteúdo"
-"Add PHP Extension dependency","Adicionar extensão PHP dependência"
-"Add Package dependency","Adicionar dependência de pacote"
+"Add Contents Path","Adicionar sequência de conteúdos"
+"Add PHP Extension dependency","Adicionar dependência de Extensão PHP"
+"Add Package dependency","Adicionar dependência de Pacote"
 "Add files","Adicionar arquivos"
 Authors,Autores
 Channel,Canal
-Contents,Conteúdo
-"Create Extension Package","Criar pacote de extensão"
+Contents,Conteúdos
+"Create Extension Package","Criar pacote de expansão"
 Dependencies,Dependências
 Description,Descrição
-"Edit Extension","Editar a extensão"
-Email,Email
+"Edit Extension","Editar extensão"
+Email,E-mail
 Extension,Extensão
 Extensions,Extensões
-"Failed to create the package.","Falha ao criar o pacote."
-"Failed to load the package data.","Falha ao carregar os dados do pacote."
-"Failed to save the package.","Falha ao salvar o pacote."
+"Failed to create the package.","Ocorreu um erro ao tentar criar o pacote."
+"Failed to load the package data.","Ocorreu um erro ao tentar carregar os dados do pacote."
+"Failed to save the package.","Ocorreu um erro ao tentar salvar o pacote."
 Files,Arquivos
 Folder,Pasta
 Ignore,Ignorar
-Include,Incluem
+Include,Incluir
 License,Licença
-"License URI","Licença URI"
-"Load Local Package","Pacote Local de carga"
-"Load local Package","Pacote local de carga"
-"Magento Connect","Magento Connect"
-"Magento Connect Manager","Magento Connect Manager"
-Max,Max
+"License URI","Licença de URI"
+"Load Local Package","Carregar Pacote Local"
+"Load local Package","Carregar Pacote Local"
+"Magento Connect","Conexão Magento"
+"Magento Connect Manager","Gerenciador de Conexão Magento"
+Max,Máximo
 Maximum,Máximo
 Min,Min
 Minimum,Mínimo
 Name,Nome
-"New Extension","Nova extensão"
-"PHP Version","Versão do PHP"
-Package,Pacote
-"Package Extensions","Extensões de pacote"
-"Package File Name","Nome do arquivo de pacote"
-"Package Info","Informações do pacote"
-Packages,Pacotes
+"New Extension","Nova Extensão"
+"PHP Version","Versão PHP"
+Package,Embalagem
+"Package Extensions","Extensões da Embalagem"
+"Package File Name","Nome do Arquivo do Pacote"
+"Package Info","Informação do Pacote"
+Packages,Embalagens
 Path,Caminho
 Pre-1.5.0.0,Pré-1.5.0.0
-"Release Info","Informações sobre o lançamento"
+"Release Info","Informação de Lançamento"
 Remove,Remover
-"Save As...","Salvar como..."
-"Save Data and Create Package","Salvar os dados e criar o pacote"
-"Save package with custom package file name","Salve o pacote com o nome do arquivo de pacote personalizado"
-Summary,Resumo
-"Supported releases","Versões com suporte"
+"Save As...","Salvar Como..."
+"Save Data and Create Package","Salvar Dados e Criar Pacote"
+"Save package with custom package file name","Salvar pacote com nome do arquivo de pacote personalizado"
+Summary,Sumário
+"Supported releases","Versões suportadas"
 System,Sistema
-Target,Alvo
-"The package %s data has been loaded.","O pacote %s dados foi carregados."
-"The package data has been saved.","O dados de pacote tiver sido salvo."
-"There was a problem saving package data","Houve um problema ao salvar dados de pacote"
+Target,Objetivo
+"The package %s data has been loaded.","Os dados do pacote %s foram carregados."
+"The package data has been saved.","Os dados do pacote foram salvos."
+"There was a problem saving package data","Houve um problema ao salvar dados do pacote"
 Type,Tipo
 User,Usuário

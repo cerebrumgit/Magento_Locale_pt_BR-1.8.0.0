@@ -1,92 +1,92 @@
-" for more information or "," para obter mais informações ou "
-"# of Items (and above)","# de itens (e acima)"
-"# of Items vs. Destination","n º de itens vs destino"
-"Allow Shipping to Multiple Addresses","Permitir o envio para vários endereços"
-"An error occurred while import table rates.","Ocorreu um erro enquanto taxas de tabela de importação."
-"Calculate Handling Fee","Calcular a taxa de manuseio"
+" for more information or ","para mais informações ou"
+"# of Items (and above)","nº de Itens (e acima)"
+"# of Items vs. Destination","nº de Itens vs. Destino"
+"Allow Shipping to Multiple Addresses","Permitir Envio a Múltiplos Endereços"
+"An error occurred while import table rates.","Ocorreu um erro ao importar as tabelas de tarifas."
+"Calculate Handling Fee","Calcular a Taxa de Manuseio"
 Carrier:,Transportadora:
 City,Cidade
-"Close Window","Fechar janela"
-Condition,Condição
+"Close Window","Fechar Janela"
+Condition,Estado
 Country,País
 Date,Data
-"Delivered on:","Emitido em:"
-"Delivered to:","Entregue-se a:"
+"Delivered on:","Entregado dia:"
+"Delivered to:","Entregado a:"
 Description,Descrição
-"Displayed Error Message","Mensagem de erro exibida"
-"Divide to equal weight (one request)","Divida o peso igual (uma solicitação)"
-"Duplicate Row #%s (Country ""%s"", Region/State ""%s"", Zip ""%s"" and Value ""%s"").","Duplicar Row #%s (país ""%s"", região/estado ""%s"", CEP ""%s"" e o valor ""%s"")."
-Enabled,Habilitado
+"Displayed Error Message","Mensagem de Erro Apresentada"
+"Divide to equal weight (one request)","Dividir para peso igual (um pedido)"
+"Duplicate Row #%s (Country ""%s"", Region/State ""%s"", Zip ""%s"" and Value ""%s"").","Duplicar Linha #%s (País ""%s"", Região/Estado ""%s"", CEP ""%s"" e Valor ""%s"")."
+Enabled,Ativado
 Error:,Erro:
-Export,Exportação
-"File has not been imported. See the following list of errors: %s","Arquivo não tenha sido importado. Consulte a seguinte lista de erros: %s"
-Fixed,Fixo
-"Flat Rate","Taxa fixa"
-"Free Shipping","Frete grátis"
-"Google Sitemap Section","Google Sitemap seção"
-"Handling Fee","Taxa de manuseio"
-Import,Importação
-"Include Virtual Products in Price Calculation","Incluir produtos virtuais no cálculo de preço"
+Export,Exportar
+"File has not been imported. See the following list of errors: %s","O arquivo não foi importado. Veja a lista de erros a seguir: %s"
+Fixed,Fixado
+"Flat Rate","Taxa Fixa"
+"Free Shipping","Frete Grátis"
+"Google Sitemap Section","Seção Google Sitemap"
+"Handling Fee","Taxa de Manuseio"
+Import,Importar
+"Include Virtual Products in Price Calculation","Incluir Produtos Virtuais no Cálculo de Preço"
 Info:,Informação:
-"Invalid %s ""%s"" in the Row #%s.","Inválido %s ""%s"" na linha de #%s."
-"Invalid Country ""%s"" in the Row #%s.","País inválido ""%s"" na linha de #%s."
-"Invalid Region/State ""%s"" in the Row #%s.","Região/estado inválido ""%s"" na linha de #%s."
-"Invalid Shipping Price ""%s"" in the Row #%s.","Inválido de transporte preço ""%s"" na linha de #%s."
-"Invalid Table Rate code for type %s: %s","Código de tabela taxa inválido para tipo de %s: %s"
-"Invalid Table Rate code type: %s","Tipo de código inválido tabela taxa: %s"
-"Invalid Table Rates File Format","Formato de arquivo inválido tabela taxas"
-"Invalid Table Rates format in the Row #%s","Taxas de tabela inválido formato na linha de #%s"
-"Local Time","Hora local"
-Location,Localização
+"Invalid %s ""%s"" in the Row #%s.","%s ""%s"" Inválido na Linha #%s."
+"Invalid Country ""%s"" in the Row #%s.","País Inválido ""%s"" na Linha #%s."
+"Invalid Region/State ""%s"" in the Row #%s.","Região/Estado Inválido ""%s"" na Linha #%s."
+"Invalid Shipping Price ""%s"" in the Row #%s.","Custo de Entrega Inválido ""%s"" na Linha #%s."
+"Invalid Table Rate code for type %s: %s","Código da Tabela de Tarifa inválido para tipo %s: %s"
+"Invalid Table Rate code type: %s","Código da Tabela de Tarifa tipo: %s"
+"Invalid Table Rates File Format","Formato de Arquivo da Tabela de Tarifas Inválido"
+"Invalid Table Rates format in the Row #%s","Formato Inválido de Taxas de Tabela na Linha #%s"
+"Local Time","Hora Local"
+Location,Local
 "Maximum Qty Allowed for Shipping to Multiple Addresses","Qtd máxima permitida para o transporte de vários endereços"
-"Method Name","Nome do método"
-"Minimum Order Amount","Quantidade de ordem mínima"
-N/A,N/A
+"Method Name","Nome do Método"
+"Minimum Order Amount","Valor Mínimo do Pedido"
+N/A,Indisponível
 None,Nenhum
 Options,Opções
-"Order Subtotal (and above)","Ordem Subtotal (e acima)"
+"Order Subtotal (and above)","Subtotal do Pedido (e acima)"
 Origin,Origem
-"Per Order","Por ordem"
-"Per Package","Por pacote"
-Percent,"Por cento"
+"Per Order","Por Ordem"
+"Per Package","Por Embalagem"
+Percent,Percentagem
 Price,Preço
-"Price vs. Destination","Preço vs. destino"
-Region/State,Região/estado
-"Service Type:","Tipo de serviço:"
-"Ship to Applicable Countries","Navio para países aplicáveis"
-"Ship to Specific Countries","Navio para países específicos"
-"Shipment #","Expedição #"
-"Shipment Tracking Popup","Popup de rastreamento de remessa"
-"Shipped or billed on:","Enviados ou faturado em:"
-"Shipping Methods","Métodos do transporte"
-"Shipping Methods Section","Seção de métodos de envio"
-"Shipping Settings","Configurações de frete"
-"Shipping Settings Section","Seção de configurações de transporte"
-"Show Method if Not Applicable","Método show se não aplicável"
+"Price vs. Destination","Preço vs. Destino"
+Region/State,Região/Estado
+"Service Type:","Tipo de Serviço:"
+"Ship to Applicable Countries","Enviar a Países Aplicáveis"
+"Ship to Specific Countries","Enviar a Países Específicos"
+"Shipment #","Remessa #"
+"Shipment Tracking Popup","Popup de Rastreamento de Entrega"
+"Shipped or billed on:","Enviado ou faturado em:"
+"Shipping Methods","Tipos de Frete"
+"Shipping Methods Section","Seção de Métodos de Entrega"
+"Shipping Settings","Configurações de Entrega"
+"Shipping Settings Section","Seção de Configurações de Entrega"
+"Show Method if Not Applicable","Mostrar Método se Não Aplicável"
 "Signed by:","Assinado por:"
-"Sort Order","Ordem de classificação"
-Status:,Status:
-"Store Pickup","Loja Pickup"
-"Street Address","Endereço rua"
-"Street Address Line 2","Linha de endereço 2"
-"Table Rates","Taxas de tabela"
-"The shipping module is not available for selected delivery country.","O módulo de transporte não está disponível para o país de entrega selecionada."
-"The shipping module is not available.","O módulo de transporte não está disponível."
-"There is no tracking available for this shipment.","Não há nenhum rastreamento disponível para esta expedição."
-"There is no tracking available.","Não há nenhum rastreamento disponível."
-"This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us.","Este método de envio não está atualmente disponível. Se você gostaria de enviar usando este método de envio, entre em contato conosco."
-"This shipping method is not available, please specify ZIP-code","Este método de envio não está disponível, por favor especifique CEP"
+"Sort Order","Classificar pedido"
+Status:,"Estado atual:"
+"Store Pickup","Retirada na Loja"
+"Street Address","Endereço da Rua"
+"Street Address Line 2","Endereço Linha 2"
+"Table Rates","Taxas de Tabela"
+"The shipping module is not available for selected delivery country.","O módulo de entrega não está disponível para o país de entrega selecionado."
+"The shipping module is not available.","O módulo de entrega não está disponível."
+"There is no tracking available for this shipment.","Não há disponibilidade de rastreamento para este método de entrega."
+"There is no tracking available.","Não há disponibilidade de rastreamento."
+"This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us.","Este método de entrega está atualmente indisponível. Se você deseja utilizar este método de entrega, por favor, entre em contato conosco."
+"This shipping method is not available, please specify ZIP-code","Este método de entrega não está disponível, por favor, especifique o CEP"
 Title,Título
-Track:,Faixa:
-"Tracking Information","Informações de rastreamento"
-"Tracking Number:","Número de rastreamento:"
-"Tracking information is currently not available. Please ","Informações de rastreamento atualmente não está disponível. Por favor, "
-"Tracking information is currently unavailable.","Informações de rastreamento está indisponível no momento."
+Track:,Rastrear:
+"Tracking Information","Informações de Rastreamento"
+"Tracking Number:","Número de Rastreamento:"
+"Tracking information is currently not available. Please ","O rastreamento de informações não está disponível no momento. Por favor"
+"Tracking information is currently unavailable.","O rastreamento de informações não está disponível no momento."
 Type,Tipo
-"Use origin weight (few requests)","Use o peso de origem (alguns pedidos)"
+"Use origin weight (few requests)","Usar peso de origem (poucos pedidos)"
 "Weight (and above)","Peso (e acima)"
-"Weight vs. Destination","Peso vs. destino"
+"Weight vs. Destination","Peso vs. Destino"
 Weight:,Peso:
 "ZIP/Postal Code","CEP/Código Postal"
-"contact us",Contate-nos
-"email us at ","Envie email para "
+"contact us","entre em contato conosco"
+"email us at ","envie um email para nós -"

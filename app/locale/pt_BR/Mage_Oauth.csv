@@ -1,6 +1,6 @@
 "%name% '%value%' is too long. It must has length %min% symbols.","% name % '% valor %' é muito longo. Isso deve tem comprimento % min % símbolos."
 "%name% '%value%' is too short. It must has length %min% symbols.","% name % '% valor %' é demasiado curto. Isso deve tem comprimento % min % símbolos."
-"* Required Fields","* Os campos obrigatórios"
+"* Required Fields","* Campos obrigatórios"
 "<strong>%s</strong> requests access to your account","<strong>%s</strong> solicitações de acesso à sua conta"
 Admin,Admin
 "After authorization application will have access to you account.","Após autorização aplicativo terá acesso à sua conta."
@@ -38,22 +38,22 @@ Close,Fechar
 "Consumer Information","Informação ao consumidor"
 "Consumer Name","Nome do consumidor"
 Consumers,Consumidores
-"Created At","Criado em"
-Customer,Cliente
+"Created At","Criada Em"
+Customer,"Nome do Cliente"
 "Customer My Account My OAuth Applications","Cliente minha conta minhas aplicações OAuth"
 Delete,Excluir
 Disable,Desativar
-Disabled,"Com deficiência"
+Disabled,Desativado
 Edit,Editar
 "Edit Consumer","Editar o consumidor"
-Email,Email
+Email,E-mail
 "Email Address","Endereço de e-mail"
-Enable,Enable
-Enabled,Habilitado
+Enable,Ativar
+Enabled,Ativado
 "Entry with ID #%s not found.","Entrada com ID #%s não encontrado."
 "Expiration Period","Período de validade"
 "Give the verifier code to application administrator","Dar o código verificador para o administrador do aplicativo"
-ID,ID
+ID,Identidade
 "Invalid Callback URL","URL de retorno de chamada inválido"
 "Invalid ID parameter.","Parâmetro de ID inválido."
 "Invalid Rejected Callback URL","URL inválido Callback rejeitados"
@@ -65,7 +65,7 @@ Key,Chave
 "Log in as admin","Logar como admin"
 "Log in as customer","Logar como cliente"
 "Log in to use <strong>%s</strong>","Login para usar <strong>%s</strong>"
-Login,Login
+Login,Conectar-se
 "My Applications","Meus aplicativos"
 Name,Nome
 "New Consumer","Novo consumidor"
@@ -93,7 +93,7 @@ Reject,Rejeitar
 "Rejected Callback URL","URL de retorno de chamada rejeitada"
 "Rejection Of Authorization","Recusa de autorização"
 Revoked,Revogado
-"Role Name","Nome da função"
+"Role Name","Nome de Função"
 Save,Salvar
 "Save and Continue Edit","Salvar e continuar a editar"
 Secret,Segredo
@@ -108,8 +108,8 @@ System,Sistema
 "Token Status Change","Alteração de Status de token"
 "Token Status Change Email Template","Modelo de E-mail de alteração de Status token"
 "Unable to find a consumer.","Incapaz de encontrar um consumidor."
-"User ID","ID de usuário"
-"User Name","Nome de usuário"
+"User ID","Identificação do Usuário"
+"User Name","Nome do Usuário"
 "User Type","Tipo de usuário"
 "Verifier code: %s","Código de verificador: %s"
 "You have no applications.","Você não tem nenhum aplicativo."

@@ -1,30 +1,30 @@
-ALL,"TODOS OS"
-ANY,QUALQUER
+ALL,TUDO
+ANY,"QUALQUER UM"
 Add,Adicionar
-Apply,Aplicar
+Apply,Solicitar
 "Conditions Combination","Combinação de condições"
-"Customer Groups must be specified.","Grupos de clientes devem ser especificados."
-"End Date must be greater than Start Date.","Data de fim deve ser maior que a data de início."
+"Customer Groups must be specified.","Os Grupos de Clientes devem ser especificados."
+"End Date must be greater than Start Date.","Data Final deve ser maior do que a Data de Início."
 FALSE,FALSO
 "If %s of these conditions are %s:","Se %s dessas condições são %s:"
-"Invalid discount amount.","Valor do desconto inválido."
-"Open Chooser","Seletor aberto"
-"Perform following actions","Executar a sequência de ações"
-"Please choose a condition to add...","Por favor, escolha uma condição para adicionar..."
-"Please choose an action to add...","Por favor, escolha uma ação para adicionar..."
+"Invalid discount amount.","Quantidade de desconto inválida."
+"Open Chooser","Abrir Seletor"
+"Perform following actions","Executar seguintes ações"
+"Please choose a condition to add...","Por favor escolha uma condição para adicionar..."
+"Please choose an action to add...","Por favor, selecione uma ação para adicionar..."
 Remove,Remover
-TRUE,VERDADE
+TRUE,VERDADEIRO
 "There is no information about associated entity type ""%s"".","Não há nenhuma informação sobre o tipo de entidade associada ""%s""."
-"Websites must be specified.","Sites devem ser especificados."
+"Websites must be specified.","Os Websites devem ser especificados."
 by,por
 contains,contém
-"does not contain","Não contém"
+"does not contain","não contém"
 "equals or greater than","é igual ou maior que"
 "equals or less than","é igual ou menor que"
-"greater than","maior que"
+"greater than","superior a"
 is,é
-"is not","Não é"
-"is not one of","Não é um dos"
-"is one of","é um dos"
-"less than","menos de"
-to,Para
+"is not","não é"
+"is not one of","não é um de"
+"is one of","é um de"
+"less than","menos que"
+to,para

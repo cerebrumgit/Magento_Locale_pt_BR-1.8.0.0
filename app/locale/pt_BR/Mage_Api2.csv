@@ -6,7 +6,7 @@
 "ACL Attributes Information","Informações de atributos ACL"
 Add,Adicionar
 "Add Admin Role","Adicionar a função de administrador"
-"Add New Role","Adicionar novo papel"
+"Add New Role","Adicionar nova função"
 "Address Type","Tipo de endereço"
 Admin,Admin
 Allow,Permitir
@@ -19,9 +19,9 @@ Assigned,Atribuído
 "Attribute Rules Information","Informações sobre regras de atributos"
 "Attribute Set","Conjunto de atributos"
 Attributes,Atributos
-"Automatically Return Credit Memo Item to Stock","Crédito automaticamente retorno Memo Item de estoque"
+"Automatically Return Credit Memo Item to Stock","Retornar Automaticamente a Nota de Crédito do Item para o Estoque"
 Back,Voltar
-Backorders,"Ordens pendentes"
+Backorders,"Ordens em Atraso"
 "Base Currency","Moeda base"
 "Base Customer Balance","Saldo base cliente"
 "Base Discount","Desconto base"
@@ -58,9 +58,9 @@ Customer,Cliente
 "Customer Address","Endereço do cliente"
 "Customer Address ID","Identificação de endereço do cliente"
 "Customer Balance","Saldo do cliente"
-"Customer First Name","Nome do cliente"
+"Customer First Name","Primeiro Nome do Cliente"
 "Customer ID","ID do cliente"
-"Customer Last Name","Sobrenome do cliente"
+"Customer Last Name","Último Nome do Cliente"
 "Customer Middle Name","Nome do meio do cliente"
 "Customer Prefix","Prefixo do cliente"
 "Customer Suffix","Sufixo do cliente"
@@ -73,9 +73,9 @@ Discount,Desconto
 "Discount Description","Descrição do disconto"
 Edit,Editar
 "Edit %s ACL attribute rules","Editar %s regras de atributo ACL"
-"Edit Role","Editar papel"
+"Edit Role","Editar funçõa"
 "Edit attribute rules for %s Role","Editar regras de atributo para %s papel"
-Email,Email
+Email,E-mail
 "Enable Qty Increments","Habilitar Qty incrementos"
 Exclude,Excluir
 "File Content","Conteúdo do arquivo"
@@ -84,13 +84,13 @@ Exclude,Excluir
 "Final Price With Tax","Preço final com impostos"
 "Final Price Without Tax","Preço final sem impostos"
 "First Name","Primeiro nome"
-"Gift Message","Mensagem de Dom"
+"Gift Message","Mensagem de presente"
 "Grand Total","Total geral"
 "Grand Total to Be Charged","Valor Total a cobrar"
 Group,Grupo
-Guest,Comentários
+Guest,Convidado
 "Has Custom Options","Tem opções personalizadas"
-ID,ID
+ID,Identidade
 "Inventory Data","Dados de inventário"
 "Invoiced Qty","Qty facturado"
 "Is Confirmed","É confirmado"
@@ -103,18 +103,18 @@ Label,Rótulo
 "Last Logged In","Última registrada"
 "Last Name","Último nome"
 "Low Stock Date","Data de estoque baixa"
-"Manage Stock","Gerenciar estoque"
+"Manage Stock","Gerenciar Estoque"
 "Maximum Qty Allowed in Shopping Cart","Qtd máxima permitida no carrinho de compras"
 "Minimum Qty Allowed in Shopping Cart","Qty mínima permitida no carrinho de compras"
-"New Role","Novo papel"
-"Notify for Quantity Below","Informe a quantidade abaixo"
+"New Role","Nova Função"
+"Notify for Quantity Below","Notificar para Quantidade Abaixo"
 OAuth,OAuth
-Order,Ordem
+Order,"Ordem #"
 "Order Addresses","Endereços de ordem"
 "Order Comments","Comentários de ordem"
 "Order Currency","Moeda da ordem"
 "Order Date","Data do pedido"
-"Order ID","ID da encomenda"
+"Order ID","ID da Ordem"
 "Order ID (internal)","ID da encomenda (interno)"
 "Order Item ID","Ordem Item ID"
 "Order Items","Itens do pedido"
@@ -135,7 +135,7 @@ Orders,Ordens
 Position,Posição
 Price,Preço
 "Price Including Tax","Preço, incluindo impostos"
-Product,Produto
+Product,"Nome do produto"
 "Product Category","Categoria de produto"
 "Product ID","ID de produto"
 "Product Image","Imagem do produto"
@@ -163,13 +163,13 @@ Retrieve,Recuperar
 "Role ""%s"" no longer exists","Papel ""%s"" não existe mais"
 "Role ""%s"" not found.","Papel ""%s"" não encontrado."
 "Role API Resources","Recursos de função de API"
-"Role Info","Informação de papel"
-"Role Information","Informações de função"
-"Role Name","Nome da função"
-"Role Users","Usuários de papel"
+"Role Info","Informação de Função"
+"Role Information","Informação de Função"
+"Role Name","Nome de Função"
+"Role Users","Usuários de Função"
 "Role has been deleted.","Papel foi excluído."
-Roles,Papéis
-SKU,SKU
+Roles,Funções
+SKU,"Unidade de Manutenção de Estoque"
 "Salability Status","Salability Status"
 Sales,Vendas
 Save,Salvar
@@ -183,7 +183,7 @@ State,Estado
 "Stock Availability","Disponibilidade de stock"
 "Stock ID","Estoque ID"
 "Stock Item","Item de estoque"
-"Stock Status","Status das ações"
+"Stock Status","Estado de Estoque"
 "Store Currency to Order Currency Rate","Armazenar a moeda, a taxa de câmbio de ordem"
 "Store Name","Nome da loja"
 Street,Rua
@@ -214,11 +214,11 @@ System,Sistema
 "The role is a special one and not for assigning it to admin users.","O papel é um especial de uma e não para atribuí-la aos usuários admin."
 "Total Due","Total devido"
 "Total Paid","Total pago"
-"Total Refunded","Total reembolsado"
+"Total Refunded","Total Reembolsado"
 "Total Reviews Count","Contagem total de clientes"
 Type,Tipo
 URL,URL
-Update,Atualização
+Update,Atualizar
 "Use Config Settings for Allow Gift Message","Usar configurações de configuração para permitir que a presente mensagem"
 "Use Config Settings for Allow Gift Wrapping","Usar configurações de configuração para permitam o envolvimento de presente"
 "Use Config Settings for Backorders","Usar configurações de configuração para ordens pendentes"

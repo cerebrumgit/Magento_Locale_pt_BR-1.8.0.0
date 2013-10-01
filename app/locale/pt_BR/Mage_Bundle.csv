@@ -1,57 +1,57 @@
-"* Required Fields","* Os campos obrigatórios"
-"-- Select --",-Selecione-
-"Add New Option","Adicionar nova opção"
+"* Required Fields","* Campos obrigatórios"
+"-- Select --","-- Selecionar --"
+"Add New Option","Adicione Nova Opção"
 "Add Selection","Adicionar seleção"
-"As Low as","Tão baixo quanto"
-"As low as","Tão baixo quanto"
-"Bundle Items","Itens do pacote"
-"Bundle Product","Pacote de produto"
-"Buy %1$s with %2$s discount each","Comprar %1$ s %2$ s desconto cada"
-"Catalog Product View (Bundle)","Exibição de produto do catálogo (Bundle)"
-Checkbox,"Caixa de seleção"
+"As Low as","A partir de"
+"As low as","A partir de"
+"Bundle Items","Empacotar itens"
+"Bundle Product","Empacotar produto"
+"Buy %1$s with %2$s discount each","Comprar %1$s com %2$s de desconto cada"
+"Catalog Product View (Bundle)","Visualização de produto de catálogo (pacote)"
+Checkbox,"Caixa de Seleção"
 "Choose a selection...","Escolha uma seleção..."
 Close,Fechar
-Default,Padrão
+Default,Predefinido
 "Default Qty","Qtde padrão"
 "Default Title","Título padrão"
-Drop-down,Suspensa
-Dynamic,Dinâmica
-"Excl. Tax","Fiscais excl."
-Fixed,Fixo
+Drop-down,Suspenso
+Dynamic,Dinâmico
+"Excl. Tax","Excluir taxas"
+Fixed,Fixado
 From,De
 From:,De:
-"Gift Message","Mensagem de Dom"
-"Incl. Tax","Imposto incl."
+"Gift Message","Mensagem de presente"
+"Incl. Tax","Incluir taxas"
 "Input Type","Tipo de entrada"
-"Is Required","É necessário"
+"Is Required","É obrigatório"
 Message:,Mensagem:
-"Multiple Select","Selecionar múltiplos"
-N/A,N/A
-"No options of this product are available.","Não há opções deste produto estão disponíveis."
+"Multiple Select","Múltipla escolha"
+N/A,Indisponível
+"No options of this product are available.","Nenhuma opção deste produto está disponível."
 None,Nenhum
-Percent,"Por cento"
-"Percent Discount","Por cento de desconto"
-"Please Select Products to Add","Por favor, selecione os produtos para adicionar"
+Percent,Percentagem
+"Percent Discount","Percentual de desconto"
+"Please Select Products to Add","Escolha os produtos a serem adicionados"
 "Please enter a number greater 0 in this field.","Por favor, insira um número 0 maior neste campo."
-"Please enter search conditions to view products.","Por favor insira critérios de pesquisa para ver os produtos."
-"Please select options for product.","Por favor, selecione as opções para o produto."
-"Please specify product option(s).","Por favor, especifique a opção (ões) do produto."
+"Please enter search conditions to view products.","Insira as condições de pesquisa para visualizar os produtos."
+"Please select options for product.","Escolha as opções do produto."
+"Please specify product option(s).","Especifique a(s) opção(ões) do produto."
 Position,Posição
-"Price Range","Faixa de preço"
+"Price Range","Variação de preço"
 "Price Type","Tipo de preço"
-"Price as configured","Preço conforme configurado"
+"Price as configured","Preço como configurado"
 Qty:,Qty:
-"Radio Buttons","Botões de rádio"
-"Required options are not selected.","Opções necessárias não estão selecionadas."
-"Selected required options are not available.","Selecionado opções necessárias não estão disponíveis."
+"Radio Buttons","Botões de Opção"
+"Required options are not selected.","As opções exigidas não estão selecionadas."
+"Selected required options are not available.","As opções exigidas selecionadas não estão disponíveis."
 Separately,Separadamente
-"Ship Bundle Items","Itens do pacote de navio"
-Shipment,Expedição
-"Store View Title","Título da vista loja"
-"There is no defined renderer for ""%s"" option type.","Não há nenhum processador definido para ""%s"" tipo de opção."
-"This product is also part of bundle(s)","Este produto também faz parte dos pacotes"
+"Ship Bundle Items","Enviar itens do pacote"
+Shipment,Remessa
+"Store View Title","Título de visualização de loja"
+"There is no defined renderer for ""%s"" option type.","Não há renderização definida para o tipo de opção ""%s""."
+"This product is also part of bundle(s)","Esse produto também faz parte do(s) pacote(s)"
 To,Para
 To:,Para:
-Together,Juntos
-"Use Default Value","Use o valor padrão"
+Together,Junto
+"Use Default Value","Utilizar valor padrão"
 "User Defined Qty","Qty definido pelo usuário"

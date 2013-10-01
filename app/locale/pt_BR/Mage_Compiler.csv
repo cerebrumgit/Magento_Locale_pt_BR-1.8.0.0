@@ -9,9 +9,9 @@ Compiled,Compilado
 "Compiler include path is enabled.","Compilador incluir caminho está habilitado."
 "Directory ""%s"" must be writeable","Diretório ""%s"" deve ser gravável"
 Disable,Desativar
-Disabled,"Com deficiência"
-Enable,Enable
-Enabled,Habilitado
+Disabled,Desativado
+Enable,Ativar
+Enabled,Ativado
 "File ""%s"" must be writeable","Arquivo ""%s"" deve ser gravável"
 "Not Compiled","Não compilado"
 "Run Compilation Process","Executar o processo de compilação"

@@ -6,7 +6,7 @@
 """line_count"" attribute is required for ""multiline"" element.","""line_count"" atributo é necessário para o elemento ""multiline""."
 """message"" attribute is required for ""%s"" validator rule.","""mensagem"" atributo é necessário para ""%s"" regra do validador."
 "%1$s has been added to your wishlist.","%1$ s foi adicionado à sua lista de desejos."
-"%1$s incl tax.","imposto de incl %1$ s."
+"%1$s incl tax.","%1$s de imposto incluído"
 "%@ is not correct","% @ Não é correto"
 "%s API Key required.","%s API Key exigidas."
 "%s Application ID required.","%s Aplicação ID exigido."
@@ -32,7 +32,7 @@
 About,Sobre
 "Access forbidden","Acesso proibido"
 Account,Conta
-"Account Information","Informações da conta"
+"Account Information","Informações da Conta"
 "Account Settings","Configurações de conta"
 "Account confirmation is required. Please check your email for the confirmation link.","Confirmação de conta é necessária. Por favor, verifique seu e-mail para o link de confirmação."
 "Account information has been saved.","Informações de conta tem sido salvo."
@@ -49,21 +49,21 @@ Add,Adicionar
 "Add Address from Contacts","Adicionar endereços de contatos"
 "Add App","Adicionar App"
 "Add Custom","Adicionar personalizado"
-"Add New Address","Adicionar novo endereço"
+"Add New Address","Adicionar Novo Endereço"
 "Add New Template","Adicionar novo modelo"
 "Add Page","Adicionar página"
 "Add To Wishlist","Adicionar à lista de desejos"
 "Add a billing address","Adicionar um endereço de cobrança"
 "Add a shipping address","Adicionar um endereço de entrega"
 "Add to Cart","Adicionar ao carrinho"
-"Add to Wishlist","Adicionar à lista de desejos"
+"Add to Wishlist","Adicionar à Lista de Desejos"
 "Adding Product to Cart...","Adicionar produto ao carrinho..."
 "Adding Product to WishList...","Adicionar produto à lista de desejos..."
 "Additional Address","Endereço adicional"
 "Additional Info","Informação adicional"
 Address,Endereço
 "Address 2","Endereço 2"
-"Address Book","Livro de endereços"
+"Address Book","Livro de Endereços"
 "Address Book Updated","Agenda atualizada"
 "Address Info","Informação de endereço"
 "Address book is empty","A agenda está vazia"
@@ -82,15 +82,15 @@ Address,Endereço
 "AirMail Template Preview","Visualização de modelo correio aéreo"
 "AirMail message","Mensagem de correio aéreo"
 "AirMail templates","Modelos de correio aéreo"
-"All Allowed Countries","Tudo permitido países"
+"All Allowed Countries","Todos os Países Permitidos"
 "All Images","Todas as imagens"
 "All locations","Todos os locais"
-Amount,Quantidade
+Amount,Valor
 "Amount in %@","Quantidade em % @"
-Amounts,Montantes
+Amounts,Quantidades
 "An account with this email address already exists.","Já existe uma conta com este endereço de e-mail."
-"An error occurred while adding item to wishlist.","Ocorreu um erro ao adicionar o item à lista de desejos."
-"An error occurred while deleting the address.","Ocorreu um erro ao excluir o endereço."
+"An error occurred while adding item to wishlist.","Ocorreu um erro enquanto adicionando item na lista de desejos."
+"An error occurred while deleting the address.","Ocorreu um erro enquanto apagando este endereço."
 "An error occurred while loading categories.","Ocorreu um erro ao carregar categorias."
 "An error occurred while loading category filters.","Ocorreu um erro ao carregar o filtros de categoria."
 "An error occurred while loading configuration.","Ocorreu um erro ao carregar a configuração."
@@ -131,7 +131,7 @@ Application,Aplicativo
 "Application Name","Nome do aplicativo"
 "Application Secret","Segredo de aplicativo"
 "Application doesn\'t exist.","Aplicação doesn\ ' t existe."
-Apply,Aplicar
+Apply,Solicitar
 "Applying Coupon Code","Aplicar o código de cupom"
 "Applying Gift Card %@","Aplicação do presente cartão % @"
 "Are you sure you want to cancel a message?","Tem certeza que deseja cancelar uma mensagem?"
@@ -139,13 +139,13 @@ Apply,Aplicar
 "Are you sure you want to delete a message?","Tem certeza que deseja excluir uma mensagem?"
 "Are you sure you want to delete selected records?","Tem certeza que deseja excluir os registros selecionados?"
 "Are you sure you want to delete this theme? This change will affect all applications.","Tem certeza que deseja excluir este tema? Essa alteração afetará todos os aplicativos."
-"Are you sure you want to do this?","Tem certeza que quer fazer isso?"
+"Are you sure you want to do this?","Tem certeza de que quer fazer isso?"
 "Are you sure you want to remove this item?","Tem certeza que deseja remover este item?"
 "As Low As","Tão baixo quanto"
 "As Low Excl. Tax","Como baixa imposto excl."
 "As Low Incl. Tax","Como baixa imposto incl."
 "As a Magento customer, Urban Airship is offering you unlimited Push Notifications and Rich Push for $100/year* along with a 60 day free trial.","Como um cliente de Magento, dirigível urbana está te oferecendo ilimitado notificações Push e Rich Push para US $100 / ano * juntamente com um 60 dias de avaliação gratuita."
-"As low as","Tão baixo quanto"
+"As low as","A partir de"
 "As low as excl. tax","Tão baixo quanto fiscais excl."
 "As low as incl. tax","Tão baixo quanto imposto incl."
 "At last one application has to be created.","Finalmente, uma aplicação tem de ser criado."
@@ -153,7 +153,7 @@ Apply,Aplicar
 "Authentication complete.","Autenticação completa."
 "Authentication to %@ did failed...","Autenticação para % @ que falha..."
 "Average Order Amount","Quantidade de ordem média"
-"Average Orders","Média de ordens"
+"Average Orders","Pedido médio"
 "Average Rating","Classificação média"
 Back,Voltar
 "Back to App Edit","Voltar à App editar"
@@ -170,20 +170,20 @@ Balance,Equilíbrio
 "Banners on Home Screen","Banners na tela inicial"
 "Best Sellers",Best-Sellers
 Billing,Faturamento
-"Billing Address","Endereço de facturação"
+"Billing Address","Endereço de faturamento"
 "Billing address","Endereço de facturação"
 "Billing address has been set.","Endereço de faturamento foi definido."
 "Bundle Products","Pacote de produtos"
-"Buy %1$s for %2$s","Comprar %1$ s por %2$ s"
-"Buy %1$s for %2$s (%3$s incl. tax) each","Comprar %1$ s por %2$ s (%3$ s com incl. imposto) cada"
-"Buy %1$s for %2$s each","Comprar %1$ s por %2$ s cada"
-"Buy %1$s with %2$s discount each","Comprar %1$ s %2$ s desconto cada"
+"Buy %1$s for %2$s","Compre %1$s por %2$s"
+"Buy %1$s for %2$s (%3$s incl. tax) each","Compre %1$s por %2$s (%3$s incl. imposto) cada"
+"Buy %1$s for %2$s each","Compre %1$s por %2$s cada"
+"Buy %1$s with %2$s discount each","Comprar %1$s com %2$s de desconto cada"
 "Buy More & Save","Comprar mais & salvar"
 "Buyer country is not allowed by store.","País do comprador não é permitido pela loja."
 "CMS Page","Página CMS"
 "CMS Pages haven\'t been found.","Páginas CMS haven\ ' t foi encontrado."
 "Cache Lifetime (seconds)","Vida de cache (segundos)"
-"Cache Management","Gerenciamento de cache"
+"Cache Management","Gerenciamento de Cache"
 "Can\'t add item to shopping cart.","Can\ ' t Adicionar item ao carrinho de compras."
 "Can\'t apply the coupon code.","Can\ ' t aplicar o código do cupom."
 "Can\'t copy file ""%s"" to ""%s"".","Can\ ' t Copie o arquivo ""%s"" para ""%s""."
@@ -215,15 +215,15 @@ Canceled,Cancelado
 "Canceling PayPal ...","Cancelando o PayPal..."
 Cancelled,Cancelado
 "Cannot apply gift card.","Não é possível aplicar o cartão de presente."
-"Cannot configure product.","Não é possível configurar o produto."
+"Cannot configure product.","Impossível configurar produto."
 "Cannot load theme ""%s"".","Não é possível carregar o tema ""%s""."
 "Cannot redeem Gift Card.","Não pode redimir o Gift Card."
 "Cannot remove gift card.","Não é possível remover o cartão de presente."
 "Cannot save theme ""%s"". Incorrect data received","Não pode salvar o tema ""%s"". Dados incorretos recebidos"
-"Cannot update the item.","Não é possível atualizar o item."
-"Card Verification Number","Número de verificação de cartão"
+"Cannot update the item.","Impossível atualizar o item."
+"Card Verification Number","Número de Verificação do Cartão"
 "Card verification number is wrong","Número de verificação de cartão está errado"
-Carrier,Transportadora
+Carrier,Portador
 Cart,Carrinho
 "Cart Updated","Carrinho atualizado"
 "Cart has been updated.","Carrinho foi atualizado."
@@ -242,9 +242,9 @@ Check,Seleção
 "Check Gift Card","Verificar o cartão de presente"
 "Check Gift Card Promo Redeemed","Verificar o cartão de presente Promo redimido"
 "Checking Gift Card %@","Verificação de Gift Card % @"
-Checkout,Check-out
+Checkout,"Encerrar Compra"
 "Checkout Page Registration","Registro de página de checkout"
-"Checkout as Guest","Check-out como convidado"
+"Checkout as Guest","Checkout como Visitante"
 "Checkout as Guest or Register","Check-out como convidado ou registrar"
 "Checkout has been initialized.","Check-out foi inicializado."
 "Checkout initialization...","Inicialização de check-out..."
@@ -253,17 +253,17 @@ Checkout,Check-out
 "Choose amount","Escolha a quantidade"
 "Choose file","Escolha ' arquivo '"
 City,Cidade
-Clear,Clara
+Clear,Limpar
 Close,Fechar
 "Color Themes","Temas de cores"
 Colors,Cores
 "Commiting updates...","Atualizações de cometer..."
-Company,Empresa
+Company,Companhia
 Completed,Concluído
 "Configuration data have been saved","Dados de configuração foram salvos"
-"Configure Cart Item","Configurar o Item do carrinho"
-"Confirm New Password","Confirmar nova senha"
-"Confirm Password","Confirmar senha"
+"Configure Cart Item","Configurar Item de Carrinho"
+"Confirm New Password","Confirmar a nova senha"
+"Confirm Password","Confirmar a senha"
 Connecting,Conectando-se
 "Connection Error\nWe\'re sorry. The app is experiencing connection problems. The app requires a network connection to operate.","Conexão Error\nWe\ lamenta. O app está enfrentando problemas de conexão. O app requer uma conexão de rede para operar."
 "Contact Email","E-mail de contato"
@@ -271,8 +271,8 @@ Connecting,Conectando-se
 ContactsAreEmpty,ContactsAreEmpty
 "Container is not defined.","Recipiente não está definido."
 Content,Conteúdo
-Continue,Continuar
-Copyright,Copyright
+Continue,Continue
+Copyright,"Direitos autorais"
 "Copyright Page Logo","Copyright página logotipo"
 "Copyright Page Logo (iPhone 4 retina)","Copyright Page Logo (iPhone 4 retina)"
 "Copyright: Magento (c) 2010","Copyright: Magento (c) 2010"
@@ -283,15 +283,15 @@ Country,País
 "Coupon code %s is not valid.","Código de cupom %s não é válido."
 "Coupon code %s was applied.","Código de cupom %s foi aplicado."
 "Coupon code is empty.","Código de cupom é vazio."
-"Coupon code was canceled.","Código de cupom foi cancelado."
+"Coupon code was canceled.","O código de cupom ""%s"" foi cancelado."
 "Create Account","Criar conta"
 "Create an Account","Criar uma conta"
 "Creating a Template is allowed only for applications which have device type iPhone.","Criando um modelo é permitido somente para aplicativos que têm o dispositivo tipo iPhone."
 "Credit Card","Cartão de crédito"
-"Credit Card %s","Cartão de crédito %s"
-"Credit Card Number","Número de cartão de crédito"
-"Credit Card Type","Tipo de cartão de crédito"
-"Credit card number does not match credit card type.","Número de cartão de crédito não coincide com o tipo de cartão de crédito."
+"Credit Card %s","Cartão de Crédito %s"
+"Credit Card Number","Número do Cartão de Crédito"
+"Credit Card Type","Tipo de Cartão de Crédito"
+"Credit card number does not match credit card type.","O número do cartão de crédito não é compatível com o tipo de cartão de crédito."
 "Cross Sells","Cruz vende"
 "Current Balance: %s","Saldo atual: %s"
 "Current Password","Senha atual"
@@ -311,14 +311,14 @@ Customer,Cliente
 Customers,Clientes
 DD,DD
 Date,Data
-"Date Created","Data de criação"
+"Date Created","Data da Criação"
 "Date Submitted","Data enviada"
-"Date Updated","Data atualizada"
+"Date Updated","Data de Atualização"
 Date:,Data:
 Day,Dia
 "Deeper Messaging and Engagement with Rich Push.","Mensagens mais profundas e engajamento com Rich Push."
-"Default Billing Address","Endereço de cobrança padrão"
-"Default Shipping Address","Endereço de entrega padrão"
+"Default Billing Address","Endereço padrão de faturamento"
+"Default Shipping Address","Endereço padrão de entrega"
 "Default Theme","Tema padrão"
 "Default themes are missed.","Temas padrão são perdidos."
 Delete,Excluir
@@ -358,7 +358,7 @@ Edit,Editar
 "Edit note","Editar nota"
 "Either remote URL or application code was not set. Please make sure you filled all the values and try again.","Remoto URL ou código do aplicativo não foi definido. Por favor, verifique se que você preencheu todos os valores e tente novamente."
 "Element with id %s already exists","Elemento com id %s já existe"
-Email,Email
+Email,E-mail
 "Email Address","Endereço de e-mail"
 "Email address you provided is not valid. Please provide a valid one.","Endereço de e-mail que você forneceu não é válido. Por favor, forneça um válido."
 "Email is not correct","E-mail não está correto"
@@ -387,7 +387,7 @@ Error,Erro
 "Error while reading remote data","Erro ao ler dados remotos"
 "Error while uploading file ""%s"".","Erro ao carregar o arquivo ""%s""."
 "Error while uploading file ""%s"". Disallowed file type. Only ""jpg"", ""jpeg"", ""gif"", ""png"" are allowed.","Erro ao carregar o arquivo ""%s"". Não permitido o tipo de arquivo. Apenas ""jpg"", ""jpeg"", ""gif"", ""png"" é permitido."
-"Excl. Tax","Fiscais excl."
+"Excl. Tax","Excluir taxas"
 "Expiration Date - Month","Data de validade - mês"
 "Expiration Date - Year","Data de validade - ano"
 "Expires: %s","Expira: %s"
@@ -409,7 +409,7 @@ Filters,Filtros
 "Flurry Analytics","Flurry Analytics"
 "Flurry Analytics Site","Flurry Analytics Site"
 Fonts,Fontes
-"Forgot Password","Esqueci a senha"
+"Forgot Password","Esqueceu a Senha?"
 "Forgot Password?","Esqueceu a senha?"
 "Forgot your password?","Esqueceu sua senha?"
 Form,Formulário
@@ -435,19 +435,19 @@ General,Geral
 "Gift card account available in enterprise version of Magento only.","Conta de cartão de presente disponível na versão do Magento enterprise só."
 "Giftcard promo code","Giftcard código de promo"
 "Grand Total","Total geral"
-"Grand Total (Excl. Tax)","Total geral (excluindo impostos)"
-"Grand Total (Incl. Tax)","Total geral (incl. imposto)"
-Guest,Comentários
+"Grand Total (Excl. Tax)","Total (Exluindo Taxa)"
+"Grand Total (Incl. Tax)","Total (IncluindoTaxa)"
+Guest,Convidado
 "Header Background Color","Cor de fundo do cabeçalho"
 "Header Font Color","Cor da fonte de cabeçalho"
 "High Resolution Application Icon","Ícone de aplicativo de alta resolução"
-Home,Casa
+Home,Início
 "Hot Red","Vermelho quente"
 "How do you rate this product?","Como você avalia este produto?"
 "How to incorporate Urban Airship within your application:","Como incorporar o dirigível urbanas dentro de seu aplicativo:"
 "I Agree",Aceito
 "I agree to the Terms and Conditions","Concordo com os termos e condições"
-ID,ID
+ID,Identidade
 "Icon that will appear on the user\'s device after they download your app.","Ícone que aparecerá no dispositivo do user\ depois de baixar o app."
 "Icon that will appear on the user\'s device after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple).","Ícone que aparecerá no dispositivo do user\ depois de baixar o app. Você não precisa aplicar um gradiente ou macio bordas (isto é feito automaticamente pela Apple)."
 "Icon that will appear on the user\'s phone after they download your app.  You do not need to apply a gradient or soft edges (this is done automatically by Apple).","Ícone que irá aparecer no telefone do user\ depois de baixar o app.  Você não precisa aplicar um gradiente ou macio bordas (isto é feito automaticamente pela Apple)."
@@ -458,7 +458,7 @@ Icons,Ícones
 "Image %s is required.","Imagem %s é necessária."
 "Image action has been saved.","Ação de imagem foi salva."
 "Image does not exist. Please reload this page.","Imagem não existe. Por favor recarregue esta página."
-"Image file was not found.","Arquivo de imagem não foi encontrado."
+"Image file was not found.","Arquivo de imagem não encontrado."
 "Image has been deleted.","Imagem foi Excluídoda."
 "Image id is required.","Id de imagem é necessária."
 "Image limits don\'t recognized for ""%s"" image type","Imagem limita don\ ' t reconhecida por ""%s"" tipo de imagem"
@@ -468,12 +468,12 @@ Icons,Ícones
 Images,Imagens
 "Images order has been updated.","Ordem de imagens foi atualizado."
 "In Queue","Na fila"
-"In Stock","Em estoque"
+"In Stock","No Estoque"
 "In addition, click here to review Urban Airship\'s Terms of Service: <a href=""%s"" target=""_blank"">click here</a>.","Além disso, clique aqui para rever termos de serviço de urbano Airship\: <a href=""%s"" target=""_blank""> clique aqui</a>."
 "In order to resubmit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce","Para reenviar o seu aplicativo, você precisa primeiro comprar um <a href=""%s"" target=""_blank""> %s</a> de MagentoCommerce"
 "In order to submit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce","Para submeter seu aplicativo, você precisa primeiro comprar um <a href=""%s"" target=""_blank""> %s</a> de MagentoCommerce"
 "Inactive Tabs","Abas inativas"
-"Incl. Tax","Imposto incl."
+"Incl. Tax","Incluir taxas"
 "Incl. tax","Imposto incl."
 "Initialization PayPal ...","Inicialização PayPal..."
 "Initialization of the PayPal checkout failed!","Falha na inicialização de checkout do PayPal!"
@@ -483,9 +483,9 @@ Images,Imagens
 "Invalid data.","Dados inválidos."
 "Invalid email address.","Endereço de e-mail inválido."
 "Invalid item or wishlist.","Item inválido ou lista de desejos."
-"Invalid login or password.","Login inválido ou senha."
+"Invalid login or password.","Acesso ou senha inválida."
 "Invalid shipping method.","Método de envio inválido."
-"Issue Number","Número de emissão"
+"Issue Number","Número de Emissão"
 "It\'s not allowed to delete submitted application.","It\ não é permitido excluir aplicativo enviado."
 Item,Item
 "Item Options","Opções de item"
@@ -495,18 +495,18 @@ Item,Item
 Items,Itens
 "Items were updated. But can\'t update wishlist.","Itens foram atualizados. Mas can\ ' t atualizar lista de desejos."
 "Keep your image size below %s KB for optimal performance.","Manter o tamanho da imagem abaixo %s KB para um desempenho ideal."
-Key,Me?
+Key,Senha
 Keywords,Palavras-chave
-Label,Rótulo
+Label,Etiqueta
 "Landscape app Background","Paisagem app fundo"
 "Landscape banners on Home Screen","Paisagem banners na Home Screen"
 "Large iTunes Icon","ITunes grande ícone"
 "Large icon that appears in the iTunes App Store. You do not need to apply a gradient or soft edges (this is done automatically by Apple).","Grande ícone que aparece no iTunes App Store. Você não precisa aplicar um gradiente ou macio bordas (isto é feito automaticamente pela Apple)."
-"Last 5 Orders","Últimos 5 pedidos"
-"Last 5 Search Terms","Última 5 termos de pesquisa"
+"Last 5 Orders","Últimos 5 Pedidos"
+"Last 5 Search Terms","Últimos 5 Termos de Pesquisa"
 "Last Name","Último nome"
 "Last update: %@","Última actualização: % @"
-"Lifetime Sales","Vendas de vida"
+"Lifetime Sales","Vendas de Vida Inteira"
 LindedIn,LindedIn
 Link:,Link:
 LinkedIn,LinkedIn
@@ -545,16 +545,16 @@ LinkedIn,LinkedIn
 "Loading more items...","Carregar mais itens..."
 "Loading product ...","Produto de carregamento..."
 "Loading shipping methods ...","Métodos de transporte de carga..."
-Loading...,Carregar...
+Loading...,Carregando...
 Locations,Locais
-"Log In","Iniciar sessão"
-"Log Out","Efetuar logout"
-"Log in to Admin Panel","Faça login no painel de Admin"
+"Log In",Entrar
+"Log Out",Sair
+"Log in to Admin Panel","Entrar no Painel de Administração"
 "Log into Account","Faça login na conta"
 "Log into your account","Acesse sua conta"
 "Log out Account","Registrar conta"
 LogInMessageTitle,LogInMessageTitle
-"Login and password are required.","Login e senha são necessários."
+"Login and password are required.","Acesso e senha são obrigatórios."
 "Logo in Header","Logotipo no cabeçalho"
 "Logo in Header image missing.","Logotipo no cabeçalho imagem faltando."
 "Logout complete.","Logout completa."
@@ -594,11 +594,11 @@ Month,Mês
 More,Mais
 "More Info","Mais informação"
 "More Tabs","Mais guias"
-"Most Viewed Products","Produtos mais vistos"
-"My Account","Minha conta"
-"My Downloadable Products","Meus produtos para download"
-"My Orders","Minhas ordens"
-"My Wishlist","Minha lista de desejos"
+"Most Viewed Products","Produtos Mais Vistos"
+"My Account","Minha Conta"
+"My Downloadable Products","Meus Produtos Disponíveis para Download"
+"My Orders","Meus Pedidos"
+"My Wishlist","Minha lista de presentes"
 Name,Nome
 "Name on Card","Nome no cartão"
 "Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max.","Nome que aparece abaixo de seu app quando usuários instalação-lo para seu dispositivo. Recomendamos escolher um nome que é 10-12 caracteres e que seus clientes vão reconhecer. %s chars max."
@@ -607,9 +607,9 @@ Name,Nome
 "New App","Novo App"
 "New Customers","Novos clientes"
 "New Password","Nova senha"
-"New Template","Novo modelo"
+"New Template","Novo Modelo"
 "New to Our Store?","Novo em nossa loja?"
-Nickname,Alcunha
+Nickname,"Alcunha (Nickname)"
 No,Não
 "No Payment Information Required","Nenhuma informação de pagamento exigida"
 "No Ratings","Sem votos"
@@ -625,7 +625,7 @@ No,Não
 Notice,Aviso
 "Number of Orders","Número de pedidos"
 "Number of Uses","Número de utilizações"
-OK,Razoável
+OK,OK
 "OR, Pay with Standard Checkout","OU, pagamento com check-out padrão"
 "Offline Catalog","Catálogo offline"
 "Offline cart stored on server","Carrinho offline armazenado no servidor"
@@ -637,29 +637,29 @@ OK,Razoável
 "Only default theme can be reset","Só o tema padrão pode ser restaurado."
 "Only free apps are allowed in this version.","Apenas aplicativos gratuitos são permitidos nesta versão."
 "Only registered users can write reviews. Please, log in or register.","Apenas usuários cadastrados podem escrever comentários. Por favor, login ou registre-se."
-Open,Aberto
+Open,Abrir
 Options,Opções
 "Options menu items","Itens de menu de opções"
-Order,Ordem
+Order,"Ordem #"
 "Order #","Ordem #"
 "Order #%s - %s","Ordem #%s-%s"
-"Order Date: %s","Data de fim: %s"
+"Order Date: %s","Data do pedido: %s"
 "Order Details Updated","Detalhes do pedido atualizados"
-"Order ID","ID da encomenda"
+"Order ID","ID da Ordem"
 "Order ID:","ID da encomenda:"
 "Order Info","Informação de ordem"
 "Order List Updated","Ordem lista atualizada"
 "Order Number","Número de ordem"
-"Order Review","Revisão da ordem"
+"Order Review","Revisão da Ordem"
 "Order canceled","Ordem cancelada"
 "Order failed","Ordem falhado"
 "Order id is not specified.","Id do pedido não for especificado."
 "Order is not available.","Ordem não está disponível."
-Ordered,Ordenou
+Ordered,Solicitado
 "Ordered Items","Ordenou itens"
 Orders,Ordens
 "Other amount","Outra quantidade"
-"Out of Stock","Fora de estoque"
+"Out of Stock",Esgotado
 "Output format is not specified. Please, specify ""format"" key in constructor, or set it using setFormat().","Formato de saída não for especificado. Por favor, especificar o ""formato"" chave no construtor, ou defini-la usando o setFormat()."
 "Overall Activity","Atividade global"
 "POST data is not valid.","Dados de postagem não são válidos."
@@ -679,35 +679,35 @@ PayPal,PayPal
 "Payer Email: %s","E-mail do autor: %s"
 "Payment Applicable From","Pagamento aplicável a partir de"
 "Payment Bridge module unavailable.","Módulo de pagamento ponte indisponível."
-"Payment Information","Informações de pagamento"
-"Payment Method","Método de pagamento"
+"Payment Information","Informação de Pagamento"
+"Payment Method","Método de Pagamento"
 "Payment Method has been set.","Método de pagamento foi definido."
 "Payment Methods","Métodos de pagamento"
 "Payment method","Método de pagamento"
 "Payment method was successfully set.","Método de pagamento foi definido com êxito."
 "Paypal MEP doesn\'t support checkout with any discount.","MEP paypal doesn\ ' t suporte checkout com qualquer desconto."
-"Place Order","Ordem do lugar"
+"Place Order","Colocar Ordem"
 "Placing order ...","Ordem de colocação..."
 "Please <a href=""%s"" target=""_blank"">click here</a> to see how to setup and retrieve API credentials.","Por favor <a href=""%s"" target=""_blank""> clique aqui</a> para ver como configurar e recuperar as credenciais do API."
 "Please Select Application","Por favor, selecione o aplicativo"
 "Please Select Device Type","Por favor, selecione o tipo de dispositivo"
-"Please agree to all the terms and conditions before placing the order.","Por favor, concorde com todos os termos e condições antes de fazer a encomenda."
+"Please agree to all the terms and conditions before placing the order.","Por favor concorde com todos os Termos e Condições antes de colocar a ordem."
 "Please create and save an application first.","Por favor, criar e salvar um pedido primeiro."
 "Please enter ""App Title"".","Por favor introduza o ""Título de App""."
-"Please enter a valid URL. Protocol is required (http://, https:// or ftp://)","Por favor introduza um URL válido. Protocolo é necessário (http://, https:// ou ftp: / /)"
-"Please enter a valid date.","Por favor introduza uma data válida."
-"Please enter a valid email address. For example johndoe@domain.com.","Por favor insira um endereço de email válido. Por exemplo, johndoe@domain.com."
+"Please enter a valid URL. Protocol is required (http://, https:// or ftp://)","Por favor insira um URL válido. Protocolo é necessário  (http://, https:// ou ftp://)"
+"Please enter a valid date.","Por favor insira uma data válida."
+"Please enter a valid email address. For example johndoe@domain.com.","Por favor insira um endereço de e-mail válido. Por exemplo joao@domain.com."
 "Please enter at least one email recipient","Por favor, insira pelo menos um destinatário de e-mail"
-"Please enter issue number or start date for switch/solo card type.","Por favor insira o número de emissão ou data para tipo de switch/solo cartão de início."
+"Please enter issue number or start date for switch/solo card type.","Por favor insira o número de emissão ou data de início para tipo de cartão switch/solo."
 "Please enter the Activation Key.","Por favor, introduza a chave de ativação."
 "Please enter the Copyright.","Por favor insira os direitos autorais."
 "Please enter the Description.","Por favor, digite a descrição."
 "Please enter the Price.","Por favor, insira o preço."
 "Please enter the Resubmission Key.","Por favor, introduza a chave de reenvio."
 "Please enter the Title.","Por favor, digite o título."
-"Please make sure your passwords match.","Por favor, certifique-se de que combinam suas senhas."
+"Please make sure your passwords match.","Por favor certifique-se que suas senhas coincidem."
 "Please save application first.","Por favor, salve o aplicativo primeiro."
-"Please select an option.","Por favor, selecione uma opção."
+"Please select an option.","Por favor selecione uma opção."
 "Please select at least one country.","Por favor, selecione pelo menos um país."
 "Please select payment method to cover a quote","Por favor, selecione o método de pagamento para cobrir uma citação"
 "Please set email","Por favor configure o e-mail"
@@ -720,10 +720,10 @@ PayPal,PayPal
 "Please upload  an image for ""Banner on Home Screen (portrait mode)"" field from Design Tab.","Por favor, upload de uma imagem para ""Banner na tela inicial (modo retrato)"" campo da guia Design."
 "Please upload  an image for ""Banner on Home Screen"" field from Design Tab.","Por favor, upload de uma imagem para o campo ""Banner na Home Screen"" do guia de Design."
 "Please upload  an image for ""Logo in Header"" field from Design Tab.","Por favor, upload de uma imagem para o campo ""Logotipo no cabeçalho"" do guia de Design."
-"Please use letters only (a-z or A-Z) in this field.","Por favor, use letras (a-z ou A-Z) neste campo."
-"Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.","Por favor, use números somente neste campo. Por favor, Evite espaços ou outros caracteres, tais como pontos ou vírgulas."
-"Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.","Por favor, use somente letras (a-z ou A-Z) ou números (0-9) somente neste campo. Sem espaços ou outros caracteres são permitidos."
-"Please wait...",Aguarde...
+"Please use letters only (a-z or A-Z) in this field.","Por favor use apenas letras (a-z ou A-Z) neste campo."
+"Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.","Por favor use apenas números nesse campo. Por favor evite espaços ou outros caracteres tais como pontos ou vírgulas."
+"Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.","Por favor use apenas letras (a-z ou A-Z) ou números (0-9) apenas neste campo. Espaços ou outros caracteres não são permitidos."
+"Please wait...","Por favor aguarde..."
 "Please, specify gift card amount!","Por favor, especifique a quantidade de cartão presente!"
 "Portrait app Background","Retrato app fundo"
 "Portrait banners on Home Screen","Banners de retrato na tela inicial"
@@ -740,8 +740,8 @@ Price,Preço
 "Primary Color","Cor primária"
 "Primary Font Color","Cor da fonte primária"
 "Problem changing or sending password.","Problema alterando ou enviar senha."
-"Proceed to Checkout","Avançar para Checkout"
-Product,Produto
+"Proceed to Checkout","Prosseguir para a verificação"
+Product,"Nome do produto"
 "Product Added to Cart","Produto adicionado ao carrinho"
 "Product Added to Wishlist","Produto adicionado à lista de desejos"
 "Product Gallery Updated","Galeria de produto atualizado"
@@ -751,7 +751,7 @@ Product,Produto
 "Product Options Updated","Opções de produto atualizadas"
 "Product Removed From Wishlist","Produto removido da lista de desejos"
 "Product Reviews Updated","Revisões do produto atualizados"
-"Product SKU","Produto SKU"
+"Product SKU","SKU do Produto"
 "Product Updated","Produto atualizado"
 "Product added","Produto adicionado"
 "Product is out of stock","Produto está fora de estoque"
@@ -768,16 +768,16 @@ Products,Produtos
 "Push Title","Empurre o título"
 "Push message","Mensagem de envio"
 "Push title","Empurre o título"
-Qty,Qty
+Qty,Quant.
 Qty:,Qty:
-Quantity,Quantidade
+Quantity,Quant.
 Quantity:,Quantidade:
 "Queue Date","Data de fila"
 "Queue Message","Mensagem da fila"
 "Queue does not exist.","Não existe fila."
 "Queue is allowed only for applications with enabled Push Notification.","Fila é permitida somente para aplicativos com notificação Push habilitado."
 "Quote instance is required.","Cito a instância é necessária."
-"Quote item is not found.","Passo a citar o item não for encontrado."
+"Quote item is not found.","O item da cotação não foi encontrado."
 "Range param doesn\'t recognized","Escala param doesn\ ' t reconhecido"
 "Ratings and Reviews","Classificações e resenhas"
 "Read the Terms and Conditions","Leia os termos e condições"
@@ -792,7 +792,7 @@ Redeem,Resgatar
 "Redemption functionality is disabled.","Funcionalidade de redenção está desabilitada."
 Refunded,Reembolsado
 Regions,Regiões
-Register,Registre-se
+Register,Registrar
 "Registering cart ...","Registrando o carrinho..."
 "Registering user ...","Registrar usuário..."
 Regular,Regular
@@ -815,16 +815,16 @@ Remove,Remover
 "Resubmit App","Reenviar o App"
 "Resubmit App failure. %s","Reenvie falha de App. %s"
 Results,Resultados
-Revenue,Receitas
+Revenue,Receita
 Revert,Reverter
 "Revert Discount","Reverter o desconto"
-Review,Revisão
+Review,Análise
 "Rich Push allows you to create and send engaging experiences by adding HTML and other rich media components to your push notifications. Moving beyond alerts and badge updates, Rich Push takes users into the app while displaying content in a customizable WebKit view. Create branded messages that engage your users with new content and information, all without having to update your app. Learn more about Rich Push - <a href=""%1$s"" target=""_blank"">%1$s</a>","Rich Push permite que você crie e envie envolvente experiências adicionando HTML e outros componentes de mídia avançada para suas notificações push. Movendo-se além de alertas e atualizações do distintivo, Rich Push leva os usuários no app durante a exibição de conteúdo em uma exibição de WebKit personalizável. Criar marca mensagens que envolver os usuários com novos conteúdos e informações, tudo isso sem ter que atualizar seu app. saiba mais sobre Rich Push - <a href=""%1$s"" target=""_blank""> %1$ s</a>"
 "SORT BY:","ORDENAR POR:"
 Sample,Amostra
 Samples,Amostras
 Save,Salvar
-"Save As","Salvar como"
+"Save As","Salvar Como"
 "Save Theme","Salvar o tema"
 "Save and Continue Edit","Salvar e continuar a editar"
 "Save and Submit App","Salvar e enviar App"
@@ -837,19 +837,19 @@ Save,Salvar
 Screens:,Telas:
 "Scroll Background Color","Cor de fundo de rolagem"
 Search,Pesquisa
-"Search Term","Termo de pesquisa"
+"Search Term","Buscar Termo"
 "Search Updated","Busca atualizada"
 "Searching for %@...","Procurando por % @..."
 "Secondary Color","Cor secundária"
 "Secondary Font Color","Cor da fonte secundária"
 "See all","Ver todos"
 "Select %@","Selecione % @"
-"Select All","Selecionar tudo"
+"Select All","Selecionar Tudo"
 "Select Chart","Selecione o gráfico"
 "Select Links","Selecionar Links"
 "Select Options","Selecione opções"
 "Select Payment Method","Selecione o método de pagamento"
-"Select Range","Selecione escala"
+"Select Range","Selecionar Intervalo"
 "Select a","Selecione um"
 "Select a Billing Address","Selecione um endereço de facturação"
 "Select a Shipping Address","Selecione um endereço de entrega"
@@ -859,17 +859,17 @@ Search,Pesquisa
 Send,Enviar
 "Sender Information","Informações do remetente"
 "Sending e-mail failed...","Envio de e-mail falhou..."
-Set,Conjunto
+Set,"Ajustar Nome"
 Settings,Configurações
 "Shake device to reset the filter","Agitar o dispositivo para redefinir o filtro"
 Share,Compartilhar
 "Share on LinkedIn","Compartilhar no LinkedIn"
 "Share on Twitter","Compartilhar no Twitter"
 "Ship method","Método de navio"
-Shipped,Enviados
-Shipping,Frete
-"Shipping Address","Endereço de envio"
-"Shipping Method","Método de envio"
+Shipped,Enviado
+Shipping,Remessa
+"Shipping Address","Endereço de Envio"
+"Shipping Method","Tipo de Frete"
 "Shipping address","Endereço de envio"
 "Shipping address has been set.","Endereço de envio foi definido."
 "Shipping method","Método de envio"
@@ -889,19 +889,19 @@ Shop,Loja
 "Sky Blue","Céu azul"
 "Social Networking","Redes sociais"
 "Some emails were not sent.","Alguns e-mails não foram enviados."
-"Sorry, no quotes are available for this order at this time.","Desculpa, sem aspas estão disponíveis para esta ordem neste momento."
+"Sorry, no quotes are available for this order at this time.","Desculpe, não há citações disponíveis neste momento para esta ordem."
 "Sorry, there are no items in this category.","Desculpe, que não existem itens nesta categoria."
 Special,Especial
 "Special Excl. Tax","Imposto especial excl."
 "Special Incl. Tax","Especial imposto incl."
-"Specific Countries","Países específicos"
+"Specific Countries","Países Específicos"
 "Specified address does not exist.","Endereço especificado não existe."
 "Specified invalid app code.","Código do aplicativo inválido especificado."
 "Specified invalid data.","Dados inválidos especificado."
 "Specified item does not exist in wishlist.","Item especificado não existe na lista de desejos."
 "Standard Checkout","Check-out padrão"
 "Standard Checkout uses the checkout methods provided by Magento. Only inline payment methods are supported. (e.g PayPal Direct,  Authorize.Net, etc.)","Check-out padrão usa os métodos de verificação fornecidos pelo Magento. Apenas os métodos de pagamento interno são suportados. (por exemplo direto PayPal, Authorize.Net, etc.)"
-"Start Date","Data de início"
+"Start Date","Início do boletim à imprensa"
 "Start Date - Month","Data de início - mês"
 "Start Date - Year","Data de início - ano"
 "Starting At","Começando em"
@@ -909,16 +909,16 @@ Special,Especial
 "Starting At Incl. Tax","Iniciando no imposto incl."
 "Starting at excl. tax","Iniciando no imposto excl."
 "Starting at incl. tax","Iniciando no imposto incl."
-State/Province,Estado/província
+State/Province,Estado/Província
 Status,Status
 "Storage of offline cart on server failed. Please retry later","Armazenamento de carrinho offline no servidor falhou. Por favor, tente novamente mais tarde"
 "Store Credit Info Updated","Informação de crédito de loja atualizada"
 "Store Credit payment is not being used in your shopping cart.","Pagamento de crédito de loja não está sendo usado no seu carrinho de compras."
-"Store View","Vista da loja"
+"Store View","Visualização da loja"
 "Store credit","Crédito na loja"
 "Store logo that is displayed on copyright page of app.","Logotipo da loja que é exibido na página de direitos autorais do app."
 "Store switcher hasn\'t been defined","Armazenar switcher hasn\ ' t sido definido"
-"Street Address","Endereço rua"
+"Street Address","Endereço da Rua"
 "Street Address 2","Endereço de rua 2"
 Subject:,Assunto:
 Submission,Apresentação
@@ -928,12 +928,12 @@ Submission,Apresentação
 "Submit App ""%s""","Submete o App ""%s"""
 "Submit App failure. %s","Apresenta falha de App. %s"
 "Submit App failure. Invalid activation key provided","Apresenta falha de App. Chave de ativação inválido fornecido"
-"Submit Review","Enviar comentário"
+"Submit Review","Enviar análise"
 Submitted,Enviado
 "Submitting Review...","Apresentação de revisão..."
 Subtotal,Subtotal
-"Subtotal (Excl. Tax)","Subtotal (excluindo impostos)"
-"Subtotal (Incl. Tax)","Subtotal (incl. imposto)"
+"Subtotal (Excl. Tax)","Subtotal (Excl. Taxa)"
+"Subtotal (Incl. Tax)","Subtotal (Inc. Taxa)"
 "Subtotal Excl. Tax","Subtotal fiscais excl."
 "Subtotal Incl. Tax","Subtotal imposto incl."
 "Subtotal excluding tax","Subtotal excluindo impostos"
@@ -943,18 +943,18 @@ Subtotal:,Subtotal:
 Success,Sucesso
 "Successfully posted to Facebook","Postado com sucesso para o Facebook"
 "Successfully posted to Linkedin","Postado com sucesso ao Linkedin"
-"Summary of Your Review","Resumo de seu comentário"
+"Summary of Your Review","Resumo da sua análise"
 "Swipe a product to reveal more options","Furto de um produto para revelar mais opções"
 T-Shirts,T-shirts
 Tabs,Guias
-Tax,Fiscal
+Tax,Taxas
 Telephone,Telefone
 "Tell a Friend","Indique a um amigo"
 "Tell a Friend is disabled.","Diga que um amigo está desabilitado."
 "Tell a Friend link has been sent.","Indique um amigo link foi enviado."
 Template,Modelo
-"Template Content","Modelo de conteúdo"
-"Template Name","Nome do modelo"
+"Template Content","Conteúdo do Modelo"
+"Template Name","Nome do Modelo"
 "Template does not exist.","Modelo não existe."
 "Template for new AirMail Message does not exist.","Não existe um modelo para nova mensagem de correio aéreo."
 "Template has been deleted.","Modelo foi excluído."
@@ -1015,7 +1015,7 @@ To:,Para:
 "Top Search Terms","Termos de pesquisa"
 Total,Total
 "Total Order Amount","Montante total da encomenda"
-"Total incl. Tax: %1$s","Total imposto incl.: %1$ s"
+"Total incl. Tax: %1$s","Total incl. Taxas: %1$s"
 "Total incl. tax","Imposto total incl."
 Totals,Totais
 "Touch and hold a product to delete from shopping cart","Toque e segure um produto para excluir do carrinho de compras"
@@ -1062,7 +1062,7 @@ URL,URL
 "Unable to load search.","Não é possível carregar a busca."
 "Unable to load shipping address form.","Não é possível carregar o formulário de envio endereço."
 "Unable to place the order.","Não é possível fazer o pedido."
-"Unable to post the review.","Não é possível postar o comentário."
+"Unable to post the review.","Não foi possível publicar a avaliação."
 "Unable to process preview.","Incapaz de processar a visualização."
 "Unable to render a gift card account.","Não é possível processar uma conta de cartão de presente."
 "Unable to render an order.","Não é possível processar uma ordem."
@@ -1077,7 +1077,7 @@ URL,URL
 "Unable to start Mobile Express Checkout.","Não é possível iniciar o Mobile Express Checkout."
 "Unable to update shipping method.","Não é possível atualizar o método de envio."
 Undefined,Indefinido
-"Unit Price","Preço unitário"
+"Unit Price","Preço Unitário"
 "Unit Price:","Preço unitário:"
 "Unknown Error","Erro desconhecido"
 "Unknown Error.","Erro desconhecido."
@@ -1091,16 +1091,16 @@ Undefined,Indefinido
 "Updating Cart...","Atualizando carrinho..."
 "Upon receiving these credentials, please fill in the corresponding fields.","Ao receber essas credenciais, por favor preencha os campos correspondentes."
 "Urban Airship Push Notification","Notificação de envio do dirigível urbano"
-"Use Billing Address","Use o endereço de facturação"
+"Use Billing Address","Use Endereço de Cobrança"
 "Use Store Credit (%s available)","Use o crédito na loja (%s disponível)"
-"Use as my default billing address","Usar como meu padrão de endereço de cobrança"
-"Use as my default shipping address","Usar como meu padrão de endereço de entrega"
+"Use as my default billing address","Use como meu endereço de cobrança padrão"
+"Use as my default shipping address","Use como meu endereço de entrega padrão"
 "Use billing address for shipping","Use o endereço de cobrança para o transporte"
-"User Name:","Nome de usuário:"
+"User Name:","Nome do Usuário:"
 "User session is expired","Sessão de usuário expirou"
 Version,Versão
 "View Cart","Ver carrinho"
-"View Details","Exibir detalhes"
+"View Details","Visualizar Detalhes"
 "View Gallery","Ver galeria"
 "View Wishlist","Ver lista de desejos"
 "Warning: All related AirMail messages will be deleted!","Aviso: Todos os relacionados a mensagens de correio aéreo serão excluídas!"
@@ -1127,20 +1127,20 @@ Yes,Sim
 "You can watch statistics here.","Você pode assistir as estatísticas aqui."
 "You canceled your order. Touch ""Pay with PayPal"" to try again.","Você cancelou sua ordem. Toque em ""Pagar com PayPal"" para tentar novamente."
 "You have entered an incorrect decimal value in the custom amount field. Provide a valid value.","Você digitou um valor decimal incorreto no campo quantidade personalizada. Fornece um valor válido."
-"You have placed no orders.","Você não colocou nenhuma ordem."
+"You have placed no orders.","Não há pedidos feitos."
 "You have uncommitted actions. Commit?","Você tem ações não confirmadas. Comprometer-se?"
 "You may also like","Você também pode gostar"
 "You must login first","Você deve login primeiro"
 "You must read and agree to the Terms and Conditions before placing your order.","Você deve ler e concordar com os termos e condições antes de colocar a sua encomenda."
 "You need to enable PayPal Express Checkout first from the Payment configuration before enabling PayPal MECL.","Você precisa habilitar o PayPal Express Checkout antes da configuração do pagamento antes de habilitar o PayPal MECL."
-"You will receive an order confirmation email with details of your order and a link to track its progress.","Você receberá um e-mail de confirmação de ordem com detalhes do seu pedido e um link para acompanhar o seu progresso."
+"You will receive an order confirmation email with details of your order and a link to track its progress.","Você irá receber um e-mail de confirmação de pedido com detalhes de seu pedido e um link para acompanhar o progresso."
 "Your current balance is:","Seu saldo atual é:"
 "Your order # is: %s. ","Sua ordem é #: %s. "
-"Your order cannot be completed at this time as there is no payment methods available for it.","Seu pedido não pode ser concluído neste momento, como não há nenhum métodos de pagamento disponíveis para ele."
+"Your order cannot be completed at this time as there is no payment methods available for it.","Seu pedido não pode ser concluído neste momento pois não há métodos de pagamento disponíveis para ele."
 "Your order failed. Touch ""Pay with PayPal"" to try again.","Seu pedido falhou. Toque em ""Pagar com PayPal"" para tentar novamente."
-"Your review has been accepted for moderation.","Seu comentário foi aceite para moderação."
+"Your review has been accepted for moderation.","Sua avaliação foi aceita para moderação."
 "Your tweet has been sent. Thanks for sharing this product on Twitter","Seu tweet foi enviado. Obrigado por compartilhar este produto no Twitter"
-"Zip/Postal Code","CEP/Código Postal"
+"Zip/Postal Code","Zip/Código Postal"
 "\'%s\' exceeds the allowed file size: %d (bytes)","\'%s \' excede o tamanho de arquivo permitidos: %d (bytes)"
 "\'%s\' height exceeds allowed value of %d px","\'%s \' altura excede o valor permitido de %d px"
 "\'%s\' is not a valid file extension. Allowed extensions: %s","\'%s \' não é uma extensão de arquivo válido. Permitido extensões: %s"
