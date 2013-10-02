@@ -47,7 +47,7 @@ Address,Endereço
 "Adjustment Fee","Taxa de ajustamento"
 "Adjustment Refund","Restituição de ajustamento"
 "Agreement Information","Informações do acordo"
-"Allow Reorder","Permitir rearranjo"
+"Allow Reorder","Permitir recomprar"
 Amount,Valor
 "Amount: %s.","Total: %s."
 "An error occurred while assigning order status. Status has not been assigned.","Ocorreu um erro ao atribuir status da ordem. Status não foi atribuído."
@@ -593,7 +593,7 @@ Refunds,Reembolsos
 Remove,Remover
 "Remove Coupon Code","Remover código do cupom"
 "Remove tracking number","Remova número de rastreio"
-Reorder,Rearranjar
+Reorder,Recomprar
 "Retrieve credit memo info","Recuperar dados da nota de crédito"
 "Retrieve credit memo information","Recuperar informações de memorando de crédito"
 "Retrieve credit memo list","Recuperar lista de notas de crédito"
